@@ -1,0 +1,42 @@
+---
+title: 他のユーザーが聞くことはできません
+description: 他のユーザーに関連する問題を特定して修正する方法について説明します。
+ms.date: 03/11/2021
+ms.topic: article
+keywords: faq
+ms.openlocfilehash: b6248e46b62e1a29324e831e686aee7b1de4505a
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107213362"
+---
+# <a name="other-users-cant-hear-me"></a><span data-ttu-id="71337-104">他のユーザーが聞くことはできません</span><span class="sxs-lookup"><span data-stu-id="71337-104">Other users can't hear me</span></span>
+
+<span data-ttu-id="71337-105">最初に、Altがマイクからオーディオを検出しているかどうかを確認します。</span><span class="sxs-lookup"><span data-stu-id="71337-105">First, determine if AltspaceVR is detecting the audio from your microphone.</span></span> <span data-ttu-id="71337-106">これを確認するには、表示の左下にあるマイクアイコンが点滅しているかどうかを調べます。</span><span class="sxs-lookup"><span data-stu-id="71337-106">You can determine this by looking at whether the microphone icon in the lower left of your view is blinking when you're talking.</span></span> <span data-ttu-id="71337-107">話すときにアイコンが点滅する場合は、マイクが動作しています。</span><span class="sxs-lookup"><span data-stu-id="71337-107">If the icon blinks when you talk, your microphone is working.</span></span> <span data-ttu-id="71337-108">アイコンが赤の場合は、ミュート状態になります。</span><span class="sxs-lookup"><span data-stu-id="71337-108">If the icon is red, you're muted.</span></span> <span data-ttu-id="71337-109">自分でミュートまたはミュート解除するアイコンを選択します。</span><span class="sxs-lookup"><span data-stu-id="71337-109">Select the icon to mute or unmute yourself.</span></span>
+
+<span data-ttu-id="71337-110">ミュート解除後にマイクアイコンが点滅していない場合は、[Alt] のマイク設定を調整し、[メニュー]、[設定]、[オーディオ/オーディオ]、[オーディオ入力の選択] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="71337-110">If you don't see your microphone icon blinking after unmuting, then you may need to adjust your microphone settings in AltspaceVR, go to Menu / Settings / Audio / Audio Input Selection.</span></span> <span data-ttu-id="71337-111">次に、矢印ボタンを使用して、使用する Mic を選択します。</span><span class="sxs-lookup"><span data-stu-id="71337-111">Then using the arrow buttons to select the Mic you'd like to use.</span></span>
+ 
+## <a name="oculus-quest"></a><span data-ttu-id="71337-112">Oculus Quest</span><span class="sxs-lookup"><span data-stu-id="71337-112">Oculus Quest</span></span> 
+
+<span data-ttu-id="71337-113">Altがインストールされている場合は、Mic オーディオを使用するアクセス許可を付与してください。</span><span class="sxs-lookup"><span data-stu-id="71337-113">Make sure you give permissions to use your Mic audio when you're installing AltspaceVR.</span></span> <span data-ttu-id="71337-114">もう1つのチェックとして、[メニュー]、[設定]、[オーディオ/オーディオ] の順に選択して、Android オーディオ入力に設定されていることを確認します (これは Quest/Quest2's の既定の mic です)。</span><span class="sxs-lookup"><span data-stu-id="71337-114">Another check you can do is looking in: Menu / Settings / Audio / Audio Input Selection and making certain it's set to Android audio input (that's the Quest/Quest2's default mic).</span></span>
+ 
+## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a><span data-ttu-id="71337-115">Windows Mixed Reality、Oculus Rift、HTC Naopak、または2D モード</span><span class="sxs-lookup"><span data-stu-id="71337-115">Windows Mixed Reality, Oculus Rift, HTC Vive, or 2D Mode</span></span>
+
+<span data-ttu-id="71337-116">Altworkplace Evr のマイク設定が適切であることを確認します。メニュー/設定/オーディオ/オーディオ入力の選択。</span><span class="sxs-lookup"><span data-stu-id="71337-116">Make sure you have the correct microphone settings in AltspaceVR: Menu / Settings / Audio / Audio Input Selection.</span></span> <span data-ttu-id="71337-117">次に、矢印ボタンを使用して、使用する Mic を選択します。</span><span class="sxs-lookup"><span data-stu-id="71337-117">Then using the arrow buttons to select the Mic you'd like to use.</span></span>
+
+<span data-ttu-id="71337-118">Altを開始する前に、適切なマイクが Windows の既定の記録デバイスとして設定されていることを確認します。</span><span class="sxs-lookup"><span data-stu-id="71337-118">Before starting AltspaceVR ensure that the proper microphone is set as your default recording device in Windows.</span></span> <span data-ttu-id="71337-119">Oculus Rift と HTC Naopak には、両方のマイクが組み込まれています。別のマイクが接続されている場合は、そのデバイスを使用しようとしている可能性があります。</span><span class="sxs-lookup"><span data-stu-id="71337-119">The Oculus Rift and HTC Vive both have a built-in microphone, if you have another microphone plugged in AltspaceVR may be trying to use that device.</span></span>
+ 
+<span data-ttu-id="71337-120">Windows で既定の記録デバイスを変更するには:</span><span class="sxs-lookup"><span data-stu-id="71337-120">To change your default recording device in Windows:</span></span>
+* <span data-ttu-id="71337-121">Windows でスピーカーアイコンを右クリックし、[**再生デバイス**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="71337-121">Right-click on your Speaker Icon in Windows and select **Playback Devices**</span></span>
+* <span data-ttu-id="71337-122">[ **記録** ] タブに移動します。</span><span class="sxs-lookup"><span data-stu-id="71337-122">Navigate to the **Recording** tab</span></span>
+* <span data-ttu-id="71337-123">使用するマイクを探します。</span><span class="sxs-lookup"><span data-stu-id="71337-123">Find the microphone you'd like to use.</span></span> <span data-ttu-id="71337-124">HTC Naopak マイクには、" **マイク-USB オーディオデバイス** " というラベルが付けられ、Oculus Rift マイクには「 **マイク-Rift Audio**」というラベルが付けられます。</span><span class="sxs-lookup"><span data-stu-id="71337-124">The HTC Vive microphone will be labeled **Microphone - USB Audio Device** and the Oculus Rift Microphone will be labeled **Microphone - Rift Audio**.</span></span>
+* <span data-ttu-id="71337-125">そのマイクを右クリックし、[**既定のデバイスとして設定**] を選択します。</span><span class="sxs-lookup"><span data-stu-id="71337-125">Right-click on that microphone and select **Set as Default Device**</span></span>
+* <span data-ttu-id="71337-126">この時点で、自分のマイクが選択されます。</span><span class="sxs-lookup"><span data-stu-id="71337-126">After restarting AltspaceVR your microphone will now be picked up</span></span>
+ 
+<span data-ttu-id="71337-127">これらの手順に従っても問題が解決しない場合は、他にもいくつかの問題があります。これは、お客様に影響を与える可能性があります。</span><span class="sxs-lookup"><span data-stu-id="71337-127">If after following these steps you're still having issues there are a few other issues, which may be affecting you:</span></span>
+* <span data-ttu-id="71337-128">30秒を超えて Alt-Tab すると、Altspace Evr によって自動的にミュートが解除されます。これは、キーボードショートカットを使用して無効にすることができます。 space オフ/オンを切り替えます。</span><span class="sxs-lookup"><span data-stu-id="71337-128">If you Alt-Tab away for more than 30 seconds, AltspaceVR will automute you, you can disable this by using the keyboard shortcut: spacebar to toggle mute off/on.</span></span>
+* <span data-ttu-id="71337-129">次のようなボリュームのしきい値が Altて Evr オーディオシステムにあります。</span><span class="sxs-lookup"><span data-stu-id="71337-129">The AltspaceVR audio system has a volume threshold that you may be below.</span></span> <span data-ttu-id="71337-130">Mic レベルを max に設定し、マイクの近くを口に設定して、通常の音量で読み上げます。</span><span class="sxs-lookup"><span data-stu-id="71337-130">Set mic levels to max, set the mic closer to your mouth, and speak at normal volume.</span></span>
+* <span data-ttu-id="71337-131">VR を終了します。ヘッドセットから usb コードを別の USB 3.0 ポートに接続してみてください。</span><span class="sxs-lookup"><span data-stu-id="71337-131">Exit VR, try plugging your USB cord from your headset into an alternative USB 3.0 port.</span></span> <span data-ttu-id="71337-132">私たちの経験では、一部の USB 3.0 ポートで問題が発生しています。</span><span class="sxs-lookup"><span data-stu-id="71337-132">In our experience, some USB 3.0 ports cause issues.</span></span>
+
+<span data-ttu-id="71337-133">作業中に実行されたサウンド設定の変更が Altworkplace Evr によって認識されない場合があります。そのため、上記のマイクの変更を有効にするために、再起動が必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="71337-133">AltspaceVR may not recognize sound setting changes made while in game, so you may need to restart AltspaceVR of the above microphone changes to take effect.</span></span>  <span data-ttu-id="71337-134">ゲームを再入力したら、マイクアイコンを見て、点滅するかどうかを確認します。</span><span class="sxs-lookup"><span data-stu-id="71337-134">When you reenter the game, look at the microphone icon and see if it blinks.</span></span> <span data-ttu-id="71337-135">アイコンが点滅する場合は、マイクが動作しています。</span><span class="sxs-lookup"><span data-stu-id="71337-135">If the icon blinks, then your microphone is working.</span></span>

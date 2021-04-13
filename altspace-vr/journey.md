@@ -1,0 +1,98 @@
+---
+title: Altて Evr を探索しています
+description: Curated のチェックポイント処理を使用して、Altworkplace Evr プラットフォームで仮想イベントの作成とホスティングを開始します。
+ms.date: 03/29/2021
+ms.topic: article
+keywords: altspace、virtual reality、events、world ビル、チュートリアル
+ms.openlocfilehash: 4eee1f00e76acca16323cb76c576307a33d50796
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107213073"
+---
+# <a name="exploring-altspacevr"></a><span data-ttu-id="45024-104">Altて Evr を探索しています</span><span class="sxs-lookup"><span data-stu-id="45024-104">Exploring AltspaceVR</span></span>
+
+![Altスペース Evr バナーの画像](images/altspace-vr-banner.png)
+
+<span data-ttu-id="45024-106">Altworkplace Evr は、仮想現実の主要なソーシャルプラットフォームです。</span><span class="sxs-lookup"><span data-stu-id="45024-106">AltspaceVR is a leading social platform for virtual reality.</span></span> <span data-ttu-id="45024-107">大規模なコンサートから専門分野に至るまで、さまざまな規模のイベントに重点を置いている場合、Alt Evr は、人間の接続を拡張するのに役立つテクノロジを使用します。</span><span class="sxs-lookup"><span data-stu-id="45024-107">Focused on events ranging in scale from arena-sized concerts to specialty meet ups, AltspaceVR uses technology to help you scale your human connection.</span></span>
+
+<span data-ttu-id="45024-108">熟練したユーザーであっても、新しいユーザーであっても、わかりやすいリソースを用意することが重要です。</span><span class="sxs-lookup"><span data-stu-id="45024-108">Whether you're a seasoned AltspaceVR veteran or a new user, it's important to have solid resources that you can count on.</span></span> <span data-ttu-id="45024-109">仮想イベントを世界中に取り込むために、次のチェックポイントをコンパイルしました。</span><span class="sxs-lookup"><span data-stu-id="45024-109">We've compiled the following checkpoints to walk you through bringing your virtual events to the world.</span></span> <span data-ttu-id="45024-110">これらの項目については順番に説明することができます。お客様がお探しのものがわかっている場合は、ここからお読みください。</span><span class="sxs-lookup"><span data-stu-id="45024-110">You can cover them sequentially, which is what we recommend, or jump around at will if you know what you're looking for.</span></span> <span data-ttu-id="45024-111">いずれにしても、方向性が必要になったときにはいつでもこの旅を再検討することができます。</span><span class="sxs-lookup"><span data-stu-id="45024-111">Either way, you'll want to revisit this journey whenever you need direction.</span></span>
+
+## <a name="1-getting-started"></a><span data-ttu-id="45024-112">1.はじめに</span><span class="sxs-lookup"><span data-stu-id="45024-112">1. Getting started</span></span>
+
+<span data-ttu-id="45024-113">独自の仮想イベントの作成とホストを開始する前に、適切なツールとアカウントが必要になります。</span><span class="sxs-lookup"><span data-stu-id="45024-113">Before you start creating and hosting your own virtual events, you'll need the right tools and accounts.</span></span> <span data-ttu-id="45024-114">このセクションを終了すると、システムが正しく構成され、準備が整います。</span><span class="sxs-lookup"><span data-stu-id="45024-114">By the end of this section, you'll have your system properly configured and ready to go!</span></span>
+
+|  <span data-ttu-id="45024-115">Checkpoint</span><span class="sxs-lookup"><span data-stu-id="45024-115">Checkpoint</span></span>  |  <span data-ttu-id="45024-116">結果</span><span class="sxs-lookup"><span data-stu-id="45024-116">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="45024-117">システム要件</span><span class="sxs-lookup"><span data-stu-id="45024-117">System requirements</span></span>](getting-started/system-requirements.md) | <span data-ttu-id="45024-118">使用を開始するための適切なツールとシステム要件があることを確認します。</span><span class="sxs-lookup"><span data-stu-id="45024-118">Make sure you have the right tools and system requirements to get started</span></span> |
+| <span data-ttu-id="45024-119">[Windows Mixed Reality](getting-started/wmr-installation.md)または[Oculus クエスト](getting-started/oculus-installation.md)をインストールする</span><span class="sxs-lookup"><span data-stu-id="45024-119">Install [Windows Mixed Reality](getting-started/wmr-installation.md) or [Oculus Quest](getting-started/oculus-installation.md)</span></span>| <span data-ttu-id="45024-120">最新の Windows Mixed Reality アプリまたは Oculus クエストアプリをダウンロードしてインストールする</span><span class="sxs-lookup"><span data-stu-id="45024-120">Download and install the latest Windows Mixed Reality or Oculus Quest apps</span></span> |
+| [<span data-ttu-id="45024-121">Altて Evr アカウントを登録する</span><span class="sxs-lookup"><span data-stu-id="45024-121">Register an AltspaceVR account</span></span>](getting-started/registration.md) | <span data-ttu-id="45024-122">Altworkplace Evr アプリ内でアカウントの作成と登録を行う</span><span class="sxs-lookup"><span data-stu-id="45024-122">Create and register for an account right inside the AltspaceVR app</span></span> |
+| [<span data-ttu-id="45024-123">Microsoft アカウントのリンク</span><span class="sxs-lookup"><span data-stu-id="45024-123">Link your Microsoft account</span></span>](getting-started/linking-microsoft-account.md) | <span data-ttu-id="45024-124">Microsoft アカウントを統合して、お気に入りの Microsoft 製品やサービスに1回のログインでアクセスする</span><span class="sxs-lookup"><span data-stu-id="45024-124">Integrate your Microsoft account to access your favorite Microsoft products and services with a single login</span></span> |
+
+## <a name="2-getting-comfortable"></a><span data-ttu-id="45024-125">2. 快適に</span><span class="sxs-lookup"><span data-stu-id="45024-125">2. Getting comfortable</span></span>
+
+<span data-ttu-id="45024-126">Altspace Evr イベントは仮想環境で実行されるため、仮想空間の移動に慣れる必要があります。</span><span class="sxs-lookup"><span data-stu-id="45024-126">Since AltspaceVR events take place in the virtual world, you need to get comfortable navigating virtual space.</span></span> <span data-ttu-id="45024-127">このセクションの最後には、自信を持って移動したり、アバターを制御したり、キーボードショートカットを使用したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="45024-127">By the end of this section, you'll be confidently moving around, controlling avatars, and using keyboard shortcuts.</span></span>
+
+|  <span data-ttu-id="45024-128">Checkpoint</span><span class="sxs-lookup"><span data-stu-id="45024-128">Checkpoint</span></span>  |  <span data-ttu-id="45024-129">結果</span><span class="sxs-lookup"><span data-stu-id="45024-129">Outcome</span></span>  |
+| --- | --- |
+| <span data-ttu-id="45024-130">[Windows Mixed Reality](getting-started/wmr-controls.md)または[Oculus クエスト](getting-started/oculus-controls.md)入力コントロールについて説明します</span><span class="sxs-lookup"><span data-stu-id="45024-130">Learn the [Windows Mixed Reality](getting-started/wmr-controls.md) or [Oculus Quest](getting-started/oculus-controls.md) input controls</span></span> | <span data-ttu-id="45024-131">Windows Mixed Reality と Oculus クエストの仮想コントロールに慣れる</span><span class="sxs-lookup"><span data-stu-id="45024-131">Get comfortable with virtual controls in Windows Mixed Reality and Oculus Quest</span></span> |
+| [<span data-ttu-id="45024-132">アバターの制御</span><span class="sxs-lookup"><span data-stu-id="45024-132">Control your avatars</span></span>](getting-started/avatar-controls.md) | <span data-ttu-id="45024-133">仮想アバターを制御するためのさまざまな制御スキームについて説明します。</span><span class="sxs-lookup"><span data-stu-id="45024-133">Learn about the different control schemes for controlling your virtual avatars</span></span> |
+| [<span data-ttu-id="45024-134">便利なキーボードショートカット</span><span class="sxs-lookup"><span data-stu-id="45024-134">Helpful keyboard shortcuts</span></span>](getting-started/keyboard-shortcuts.md) | <span data-ttu-id="45024-135">最新のショートカットキーを使用して最新情報を入手する</span><span class="sxs-lookup"><span data-stu-id="45024-135">Stay up-to-date with the latest keyboard shortcuts</span></span> |
+
+## <a name="3-for-guests--audiences"></a><span data-ttu-id="45024-136">3. ゲスト & 対象ユーザー用</span><span class="sxs-lookup"><span data-stu-id="45024-136">3. For guests & audiences</span></span>
+
+<span data-ttu-id="45024-137">常に、Altworkplace Evr のホストである必要はありません。ゲストであることがあります。</span><span class="sxs-lookup"><span data-stu-id="45024-137">You don't always have to be a host in AltspaceVR - sometimes you'll be a guest an audience member.</span></span> <span data-ttu-id="45024-138">このような場合は、新しい区域に付属している機能とメニューについて理解しておく必要があります。</span><span class="sxs-lookup"><span data-stu-id="45024-138">For these occasions, you'll want to be familiar with the features and menus that come with the new territory.</span></span>
+
+|  <span data-ttu-id="45024-139">Checkpoint</span><span class="sxs-lookup"><span data-stu-id="45024-139">Checkpoint</span></span>  |  <span data-ttu-id="45024-140">結果</span><span class="sxs-lookup"><span data-stu-id="45024-140">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="45024-141">タイトル画面を調べる</span><span class="sxs-lookup"><span data-stu-id="45024-141">Exploring the Title Screen</span></span>](community/exploring-title-screen.md) | <span data-ttu-id="45024-142">タイトル画面から [ログイン]、[イベントの入力]、[アバターのカスタマイズ] の順に移動します。</span><span class="sxs-lookup"><span data-stu-id="45024-142">Navigate the AltspaceVR platform from the Title Screen to login, enter an event, or customize your avatar</span></span> |
+| [<span data-ttu-id="45024-143">ソーシャル機能 & nametags</span><span class="sxs-lookup"><span data-stu-id="45024-143">Social features & nametags</span></span>](faqs/nametags.md) | <span data-ttu-id="45024-144">Nametags とソーシャルの機能が Alt でどのように機能するかについて説明します</span><span class="sxs-lookup"><span data-stu-id="45024-144">Learn how nametags and social features work within AltspaceVR</span></span> |
+
+## <a name="4-creating--hosting-events"></a><span data-ttu-id="45024-145">4. & ホスティングイベントを作成する</span><span class="sxs-lookup"><span data-stu-id="45024-145">4. Creating & hosting events</span></span>
+
+<span data-ttu-id="45024-146">ここでは、ロジスティックについて説明しました。次は、イベントを作成してホストする方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="45024-146">Now you've covered the logistics, it's time to learn how to create and host events.</span></span> <span data-ttu-id="45024-147">このプロセスには Altスペース Evr の機能がありますが、これらの機能は基本、より高度なオプション、およびホスト固有のツールに分けられています。</span><span class="sxs-lookup"><span data-stu-id="45024-147">AltspaceVR has different features for this process, but we've separated them into the basics, more advanced options, and hosting-specific tools.</span></span> <span data-ttu-id="45024-148">これらを順番に実行するか、先に進むかにかかわらず、このセクションの終わりまでに、独自のイベントを確実に作成することができます。</span><span class="sxs-lookup"><span data-stu-id="45024-148">Whether you go through these sequentially, or jump around, you'll be confidently creating your own events by the end of this section.</span></span>
+
+<span data-ttu-id="45024-149">**基本的なイベントの設定**</span><span class="sxs-lookup"><span data-stu-id="45024-149">**Basic event setup**</span></span>
+
+|  <span data-ttu-id="45024-150">Checkpoint</span><span class="sxs-lookup"><span data-stu-id="45024-150">Checkpoint</span></span>  |  <span data-ttu-id="45024-151">結果</span><span class="sxs-lookup"><span data-stu-id="45024-151">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="45024-152">ロールについて</span><span class="sxs-lookup"><span data-stu-id="45024-152">Understand roles</span></span>](getting-started/roles.md) | <span data-ttu-id="45024-153">Altworkplace Evr イベントで使用できるさまざまなロールについて説明します。</span><span class="sxs-lookup"><span data-stu-id="45024-153">Learn about the different roles available for AltspaceVR events</span></span> |
+| [<span data-ttu-id="45024-154">イベントを設定する</span><span class="sxs-lookup"><span data-stu-id="45024-154">Set up an event</span></span>](tutorials/creating-an-event.md) | <span data-ttu-id="45024-155">用語、ブランド、マルチメディアコンソールなどのイベント作成機能に慣れる</span><span class="sxs-lookup"><span data-stu-id="45024-155">Get comfortable with terminology, branding, multimedia console, and more event creation features</span></span> |
+| [<span data-ttu-id="45024-156">グループ機能の調査</span><span class="sxs-lookup"><span data-stu-id="45024-156">Exploring the group features</span></span>](tutorials/group-features.md) | <span data-ttu-id="45024-157">仮想イベントのゲストリストを手動で追加して構成する方法を理解する</span><span class="sxs-lookup"><span data-stu-id="45024-157">Understand how to manually add and configure your virtual event guest list</span></span> |
+| [<span data-ttu-id="45024-158">対象ユーザーの拡大/縮小</span><span class="sxs-lookup"><span data-stu-id="45024-158">Scaling your audiences</span></span>](faqs/scaling-audiences.md) | <span data-ttu-id="45024-159">イベント全体を複数のインスタンスにわたってミラー化し、対象ユーザーのサイズを増やす</span><span class="sxs-lookup"><span data-stu-id="45024-159">Mirror your entire event across multiple instances and increase your audience size</span></span> |
+| <span data-ttu-id="45024-160">[マルチメディアコンソール](tutorials/multimedia-console.md)と[Web プロジェクター](tutorials/web-projector-streaming.md)でメディアを共有する</span><span class="sxs-lookup"><span data-stu-id="45024-160">Sharing media with [Multimedia Console](tutorials/multimedia-console.md) and [Web Projector](tutorials/web-projector-streaming.md)</span></span> | <span data-ttu-id="45024-161">指定されたブラウザータブをデスクトップ PC から直接 Altevr にストリーミングする方法について説明します</span><span class="sxs-lookup"><span data-stu-id="45024-161">Learn how to stream a designated browser tab from your desktop PC directly into AltspaceVR</span></span> |
+
+<span data-ttu-id="45024-162">**高度なイベントのセットアップ**</span><span class="sxs-lookup"><span data-stu-id="45024-162">**Advanced event setup**</span></span>
+
+|  <span data-ttu-id="45024-163">Checkpoint</span><span class="sxs-lookup"><span data-stu-id="45024-163">Checkpoint</span></span>  |  <span data-ttu-id="45024-164">結果</span><span class="sxs-lookup"><span data-stu-id="45024-164">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="45024-165">ワールドエディターを使ってみる</span><span class="sxs-lookup"><span data-stu-id="45024-165">Get started with the World Editor</span></span>](world-building/world-editor-getting-started.md) | <span data-ttu-id="45024-166">オブジェクトと要素を生成、操作、および配置して世界を構築する方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="45024-166">Learn how to spawn, manipulate, and place objects and elements to construct a world</span></span> |
+| [<span data-ttu-id="45024-167">独自のコンテンツを作成する</span><span class="sxs-lookup"><span data-stu-id="45024-167">Create your own content</span></span>](community/creating-content.md) | <span data-ttu-id="45024-168">Altworkplace Evr での VR コンテンツの作成と共有の概要</span><span class="sxs-lookup"><span data-stu-id="45024-168">Get started creating and sharing VR content in AltspaceVR</span></span> |
+| [<span data-ttu-id="45024-169">テレポーターを使用したブレイクアウトルームの作成</span><span class="sxs-lookup"><span data-stu-id="45024-169">Using teleporters to create Breakout Rooms</span></span>](tutorials/teleporting.md) | <span data-ttu-id="45024-170">ユーザーが1つのイベントと世界に移動できるようにする</span><span class="sxs-lookup"><span data-stu-id="45024-170">Let your users explore and travel from one event and world to another</span></span> |
+| [<span data-ttu-id="45024-171">3D モデルのインポート (glTF)</span><span class="sxs-lookup"><span data-stu-id="45024-171">Importing 3D models (glTF)</span></span>](world-building/importing-models.md) | <span data-ttu-id="45024-172">Glb ファイルをアップロードして、ワールドエディターでモデルを作成する方法について説明します。</span><span class="sxs-lookup"><span data-stu-id="45024-172">Learn how to upload .glb files to create models in the World Editor</span></span> |
+| [<span data-ttu-id="45024-173">ワールドパフォーマンスの向上</span><span class="sxs-lookup"><span data-stu-id="45024-173">Improving world performance</span></span>](world-building/improving-performance.md) | <span data-ttu-id="45024-174">パフォーマンスに関する診断、パフォーマンスツール、トラブルシューティングのヒントを取得する</span><span class="sxs-lookup"><span data-stu-id="45024-174">Get diagnostics, performance tools, and troubleshooting tips for performance</span></span> |
+| [<span data-ttu-id="45024-175">カスタム skyboxes のインポート</span><span class="sxs-lookup"><span data-stu-id="45024-175">Importing custom skyboxes</span></span>](world-building/uploading-custom-skyboxes.md) | <span data-ttu-id="45024-176">独自のカスタム skyboxes を作成してインポートし、仮想スペースをさらにイマーシブにする</span><span class="sxs-lookup"><span data-stu-id="45024-176">Create and import your own custom skyboxes to make your virtual spaces more immersive</span></span> |
+
+<span data-ttu-id="45024-177">**ホスティングツール**</span><span class="sxs-lookup"><span data-stu-id="45024-177">**Hosting tools**</span></span>
+
+|  <span data-ttu-id="45024-178">Checkpoint</span><span class="sxs-lookup"><span data-stu-id="45024-178">Checkpoint</span></span>  |  <span data-ttu-id="45024-179">結果</span><span class="sxs-lookup"><span data-stu-id="45024-179">Outcome</span></span>  |
+| --- | --- |
+| [<span data-ttu-id="45024-180">ホスティングツールを使い始める</span><span class="sxs-lookup"><span data-stu-id="45024-180">Get comfortable with hosting tools</span></span>](tutorials/host-tools-overview.md) | <span data-ttu-id="45024-181">イベントホストとして用意されているさまざまなツールのセットについて理解する</span><span class="sxs-lookup"><span data-stu-id="45024-181">Understand the different set of tools you have as an event host</span></span> |
+| [<span data-ttu-id="45024-182">イベントの可視性の最大化</span><span class="sxs-lookup"><span data-stu-id="45024-182">Maximizing event visibility</span></span>](tutorials/main-events.md) | <span data-ttu-id="45024-183">より見やすく、情報にして、イベントを最大限に活用しましょう</span><span class="sxs-lookup"><span data-stu-id="45024-183">Get the most out of your events by making them more visible and marketable</span></span> |
+| [<span data-ttu-id="45024-184">FrontRow イベント用のホストツール</span><span class="sxs-lookup"><span data-stu-id="45024-184">Host tools for FrontRow events</span></span>](tutorials/host-tools-for-events.md) | <span data-ttu-id="45024-185">仮想イベント内の任意のユーザーにホストアクセス許可を付与する</span><span class="sxs-lookup"><span data-stu-id="45024-185">Give hosting permissions to any of your users within your virtual events</span></span> |
+
+## <a name="5-troubleshooting"></a><span data-ttu-id="45024-186">5. トラブルシューティング</span><span class="sxs-lookup"><span data-stu-id="45024-186">5. Troubleshooting</span></span>
+
+<span data-ttu-id="45024-187">イベント、オーディオ、またはこのアプリケーションの作成で問題が発生している場合、またはお問い合わせの際は、以下のトラブルシューティングのセクションを参照してください。</span><span class="sxs-lookup"><span data-stu-id="45024-187">If you're having any trouble with creating events, audio, the AltspaceVR application, or you just want to contact us, use the troubleshooting sections below.</span></span> 
+
+[!INCLUDE[](includes/troubleshooting.md)]
+
+## <a name="6-community--resources"></a><span data-ttu-id="45024-188">6. コミュニティ & リソース</span><span class="sxs-lookup"><span data-stu-id="45024-188">6. Community & resources</span></span>
+
+<span data-ttu-id="45024-189">これはコミュニティであり、参加をお勧めします。</span><span class="sxs-lookup"><span data-stu-id="45024-189">AltspaceVR is a community, and we'd love to have you join.</span></span> <span data-ttu-id="45024-190">少し時間をかけて、コミュニティ標準、サービス利用規約、プライバシーポリシーを確認し、ニュースレターを購読して最新ニュースをお読みください。</span><span class="sxs-lookup"><span data-stu-id="45024-190">Take a minute to review our community standards, terms of service, privacy policy, and subscribe to our newsletter for all the latest news.</span></span>
+
+* [<span data-ttu-id="45024-191">コミュニティ標準</span><span class="sxs-lookup"><span data-stu-id="45024-191">Community standards</span></span>](community/community-standards.md)
+* [<span data-ttu-id="45024-192">サービス利用規約</span><span class="sxs-lookup"><span data-stu-id="45024-192">AltspaceVR Terms of Service</span></span>](community/terms-of-service.md)
+* [<span data-ttu-id="45024-193">Microsoft プライバシーに関する声明</span><span class="sxs-lookup"><span data-stu-id="45024-193">Microsoft Privacy Policy</span></span>](https://privacy.microsoft.com/privacystatement)
+* [<span data-ttu-id="45024-194">ニュースレターを購読する</span><span class="sxs-lookup"><span data-stu-id="45024-194">Subscribe to our newsletter</span></span>](community/newsletter-subscriptions.md)

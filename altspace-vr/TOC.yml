@@ -1,0 +1,169 @@
+- name: AltspaceVR へようこそ
+  href: index.yml
+- name: AltspaceVR の探索
+  href: journey.md
+- name: 作業の開始
+  expanded: true
+  items:
+    - name: システム要件
+      href: getting-started/system-requirements.md
+    - name: Windows Mixed Reality のインストール
+      href: getting-started/wmr-installation.md
+    - name: Oculus Quest/Quest 2 のインストール
+      href: getting-started/oculus-installation.md
+    - name: アカウントの作成
+      items:
+        - name: アカウントの登録
+          href: getting-started/registration.md
+        - name: Microsoft アカウントのリンク
+          href: getting-started/linking-microsoft-account.md
+    - name: 入力コントロール
+      items:
+        - name: Windows Mixed Reality コントロール
+          href: getting-started/wmr-controls.md
+        - name: Oculus Quest/Quest 2 コントロール
+          href: getting-started/oculus-controls.md
+        - name: キーボード ショートカット
+          href: getting-started/keyboard-shortcuts.md
+        - name: 2D PC モードでのマウスまたはキーボードを使用したアバターの制御
+          href: getting-started/avatar-controls.md
+        - name: ゲームパッド コントロールの使用
+          href: getting-started/gamepad-controls.md
+- name: コンテンツとユーザーの検出
+  items:
+    - name: タイトル画面を確認する
+      href: community/exploring-title-screen.md
+    - name: ニュースレターを購読する
+      href: community/newsletter-subscriptions.md
+    - name: コミュニティの参加
+      items:
+        - name: コミュニティ ヘルパー プログラム
+          href: community/community-helper-program.md
+        - name: コミュニティ ヘルパー ガイド
+          href: community/community-helper-guide.md
+- name: イベントの作成とホスト
+  items:
+    - name: 基本的なイベント
+      items:
+        - name: イベントの設定
+          href: tutorials/creating-an-event.md
+        - name: イベント、ワールド、グループ、AltspaceVR でのロール
+          href: getting-started/roles.md
+        - name: イベントの主な要件
+          href: tutorials/main-events.md
+        - name: グループ機能の使用
+          href: tutorials/group-features.md
+        - name: 削除されたイベントの回復
+          href: tutorials/recovering-deleted-events.md
+    - name: 高度なイベント
+      items:
+        - name: FrontRow による対象ユーザーの拡大縮小
+          href: faqs/scaling-audiences.md
+        - name: Web プロジェクター
+          href: tutorials/web-projector-streaming.md
+        - name: マルチメディア コンソール
+          href: tutorials/multimedia-console.md
+        - name: Interactables Spawner
+          href: tutorials/interactable-spawner.md
+        - name: テレポーター
+          href: tutorials/teleporting.md
+    - name: ホスティング ツール
+      items:
+        - name: 概要
+          href: tutorials/host-tools-overview.md
+        - name: FrontRow イベント
+          href: tutorials/host-tools-for-events.md
+- name: コントロールとカスタマイズ
+  items:
+    - name: 早期アクセス
+      href: world-building/early-access.md
+    - name: ワールド ベータ プログラム
+      items:
+        - name: 基本的なワールド構築
+          items:
+            - name: コンテンツの作成
+              href: community/creating-content.md
+            - name: ワールド エディターの使用開始
+              href: world-building/world-editor-getting-started.md
+            - name: パフォーマンスの向上
+              href: world-building/improving-performance.md
+            - name: ワールドの管理
+              href: world-building/managing-worlds.md
+            - name: ウェルカム メッセージの追加
+              href: world-building/adding-welcome-messages.md
+            - name: スポーン ポイントの追加
+              href: world-building/adding-custom-spawn-points.md
+            - name: ワールドのバックアップ
+              href: world-building/backing-up-worlds.md
+            - name: フレンドとのワールドの管理
+              href: world-building/granting-roles.md
+            - name: フレンドへの能力の付与
+              href: world-building/adding-user-abilities.md
+        - name: 高度なワールド構築
+          items:
+            - name: World Building Toolkit (Unity Uploader)
+              href: world-building/world-building-toolkit-getting-started.md
+            - name: Mixed Reality Extensions の使用
+              href: world-building/using-mixed-reality-extensions.md
+            - name: キットのアップロード
+              href: world-building/uploading-custom-kits.md
+            - name: glTF モデルのインポート
+              href: world-building/importing-models.md
+            - name: Skybox のアップロード
+              href: world-building/uploading-custom-skyboxes.md
+        - name: よく寄せられる質問
+          items:
+            - name: ワールド構築の概要
+              href: world-building/world-building-getting-started.md
+            - name: ワールド構築に関するヘルプを得る
+              href: world-building/getting-help.md
+- name: 規則と標準
+  items:
+    - name: サービス利用規約
+      href: community/terms-of-service.md
+    - name: コミュニティ標準
+      href: community/community-standards.md
+- name: トラブルシューティングとサポート
+  items:
+    - name: よく寄せられる質問
+      items:
+        - name: オーディオ
+          items:
+            - name: VR ヘッドセットにはマイクが内蔵されていますか?
+              href: faqs/vr-headset-mic.md
+            - name: プッシュ ツー トーク ボタンはありますか?
+              href: faqs/push-to-talk.md
+            - name: 音声が途切れます
+              href: faqs/choppy-audio.md
+            - name: 私の声が他のユーザーに聞こえません
+              href: faqs/other-users-cant-hear-me.md
+        - name: アカウントとアバター
+          items:
+            - name: ネームタグはどのように機能しますか?
+              href: faqs/nametags.md
+            - name: アカウント情報を変更するにはどうすればよいですか?
+              href: faqs/updating-email-address.md
+        - name: AltspaceVR アプリケーション
+          items:
+            - name: AltspaceVR アプリのバージョンはどうやって確認できますか?
+              href: faqs/app-version.md
+            - name: クライアント ログをアップロードするにはどうすればよいですか?
+              href: faqs/uploading-client-logs.md
+            - name: AltspaceVR を起動できません
+              href: faqs/unable-to-launch.md
+        - name: 健康と安全
+          items:
+            - name: AltspaceVR で乗り物酔いが起こりますか?
+              href: faqs/motion-sickness.md
+        - name: イベント
+          items:
+            - name: FrontRow イベントとは
+              href: faqs/front-row-events.md
+- name: お問い合わせ
+  items:
+    - name: ヘルプの参照
+      href: community/open-support-ticket.md
+    - name: 機能のリクエスト
+      href: community/feature-requests.md
+    - name: 不正悪用レポートの提出
+      href: community/filing-abuse-reports.md

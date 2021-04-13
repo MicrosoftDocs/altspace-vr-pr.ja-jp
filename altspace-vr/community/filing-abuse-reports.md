@@ -1,0 +1,28 @@
+---
+title: 不正の報告を提出する
+description: 不正使用レポートのファイリングに関する最新の手順と、Altworkplace Evr のアプリ内安全性機能について説明します。
+ms.date: 02/10/2021
+ms.topic: article
+keywords: レポート、問題
+ms.openlocfilehash: b2b7a5818b068dde6252dade072d5f7625bc35dc
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107213602"
+---
+# <a name="filing-an-abuse-report"></a><span data-ttu-id="320a5-104">不正の報告を提出する</span><span class="sxs-lookup"><span data-stu-id="320a5-104">Filing an abuse report</span></span>
+
+<span data-ttu-id="320a5-105">Alt地帯 Evr では、快適さと安全性は最優先事項です。</span><span class="sxs-lookup"><span data-stu-id="320a5-105">In AltspaceVR your comfort and safety are a top priority.</span></span> <span data-ttu-id="320a5-106">不快感、特別なこと、または不適切な行動や行動を condone ことはありません。</span><span class="sxs-lookup"><span data-stu-id="320a5-106">We don't condone any acts or behaviors that are offensive, derogatory, or inappropriate.</span></span> <span data-ttu-id="320a5-107">不正使用の報告を提出することで、マイクロソフトのコミュニティ標準やサービス利用規約に違反しているユーザーやコンテンツについて、モデレーションチームに知らせることができます。</span><span class="sxs-lookup"><span data-stu-id="320a5-107">Filing an abuse report allows you to let our Moderation Team know about any users or content that is in violation of our Community Standards or Terms of Service.</span></span>
+
+<span data-ttu-id="320a5-108">[コミュニティの標準](community-standards.md)と[サービス条件](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20)を確認して、ユーザーの行動がユーザーの行動に対する期待に違反していないかどうかを判断します。</span><span class="sxs-lookup"><span data-stu-id="320a5-108">Take a moment to review our [Community Standards](community-standards.md) and [Terms of Service](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20), to determine if the individual's actions are violating our expectation of user behavior.</span></span> <span data-ttu-id="320a5-109">注意を払っていると思われる場合は、 [不正使用レポートをファイルに記録](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154)してください。</span><span class="sxs-lookup"><span data-stu-id="320a5-109">If you feel it does warrant our attention, [file an Abuse Report](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154).</span></span> <span data-ttu-id="320a5-110">エクスペリエンスの詳細なアカウント、関連する表示名とユーザー名の正確な綴り、および不正使用のインスタンスがいつ発生したかを指定してください。</span><span class="sxs-lookup"><span data-stu-id="320a5-110">Make sure to provide a detailed account of your experience, an accurate spelling of any relevant Display Names and Usernames, and specification of when the instance of abuse took place.</span></span> 
+
+<span data-ttu-id="320a5-111">必要に応じてフォローアップを行い、人々が安全であり、他のユーザーと自由に通信できる場所として、Altplace Evr を維持するために必要なアクションを実行します。</span><span class="sxs-lookup"><span data-stu-id="320a5-111">We'll follow up where appropriate, and take the necessary actions to maintain AltspaceVR as a place where people feel safe and are free to communicate with others.</span></span> <span data-ttu-id="320a5-112">プライバシーポリシーの一部として、個人のアカウントの決定や状態についての情報はお客様に通知されません。</span><span class="sxs-lookup"><span data-stu-id="320a5-112">As part of our privacy policy, we won't inform you about our decisions or the status of any individual's account.</span></span>
+
+## <a name="in-app-safety-features"></a><span data-ttu-id="320a5-113">In-App の安全性機能</span><span class="sxs-lookup"><span data-stu-id="320a5-113">In-App Safety Features</span></span>
+
+<span data-ttu-id="320a5-114">不正使用の報告に加えて、アプリ内の安全性ツールがいくつかあり、エクスペリエンスを管理できるように設計されていることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="320a5-114">Remember that in addition to the Abuse Report, there are several in-app safety tools designed to give you control over your experience.</span></span> 
+
+<span data-ttu-id="320a5-115">いつでも、操作したくないユーザーをブロックしてミュートできます。</span><span class="sxs-lookup"><span data-stu-id="320a5-115">At any time, you can Block and Mute any user that you don't wish to interact with.</span></span> <span data-ttu-id="320a5-116">アバターをクリックして、ユーザーの名前タグを開きます。</span><span class="sxs-lookup"><span data-stu-id="320a5-116">Open a user's Name Tag by clicking on their avatar.</span></span> <span data-ttu-id="320a5-117">ここでは、ミュートやブロックなど、いくつかのボタンが表示されます。</span><span class="sxs-lookup"><span data-stu-id="320a5-117">Here you'll find several buttons including Mute and Block.</span></span> <span data-ttu-id="320a5-118">ミュートしたユーザーのオーディオは表示されなくなります。</span><span class="sxs-lookup"><span data-stu-id="320a5-118">You'll no longer hear the audio for any user you mute.</span></span> <span data-ttu-id="320a5-119">ブロックされたユーザーは、表示されなくなるか、または聞こえなくなることがあります。</span><span class="sxs-lookup"><span data-stu-id="320a5-119">Blocked users will no longer be seen or heard, and can no longer see or hear you.</span></span> 
+
+<span data-ttu-id="320a5-120">他のユーザーがアバターに近すぎるという問題が発生している場合は、個人用スペースのバブルをアクティブにすることができます。</span><span class="sxs-lookup"><span data-stu-id="320a5-120">If you're experiencing issues with other users getting too close to your Avatar, you can activate your Personal Space Bubble.</span></span> <span data-ttu-id="320a5-121">個人用スペースバブルを使用すると、他のユーザーが近くに到達した場合に、他のユーザーが非表示になります。</span><span class="sxs-lookup"><span data-stu-id="320a5-121">Your Personal Space Bubble causes others to become invisible if they get too close to you.</span></span> 
