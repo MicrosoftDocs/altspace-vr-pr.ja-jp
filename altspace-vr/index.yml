@@ -1,0 +1,115 @@
+### YamlMime:Hub
+title: AltspaceVR へようこそ
+summary: 拡大する VR イベントのワールドを AltspaceVR で探索します。
+brand: windows
+metadata:
+  title: AltspaceVR へようこそ
+  description: 拡大する VR イベントのワールドを AltspaceVR で探索します。
+  services: mixed-reality
+  ms.service: mixed-reality
+  ms.topic: hub-page
+  author: hferrone
+  ms.author: v-hferrone
+  ms.date: 02/10/2021
+highlightedContent:
+  items:
+    - title: 作業の開始
+      itemType: get-started
+      url: getting-started/system-requirements.md
+    - title: コンテンツとユーザーの検出
+      itemType: overview
+      url: getting-started/system-requirements.md
+    - title: イベントの作成
+      itemType: how-to-guide
+      url: tutorials/creating-an-event.md
+    - title: ワールドの構築
+      itemType: learn
+      url: world-building/world-editor-getting-started.md
+    - title: 早期アクセス
+      itemType: whats-new
+      url: world-building/early-access.md
+    - title: トラブルシューティング
+      itemType: reference
+      url: faqs/vr-headset-mic.md
+productDirectory:
+  title: 作業開始
+  summary: AltspaceVR を使用して、イベントをホストしたり、仮想ワールドを構築したり、世界中のリモート ユーザーやコミュニティと交流したりします。
+  items:
+    - title: セットアップとインストール
+      imageSrc: images/icon-discovery.png
+      links:
+        - url: getting-started/registration.md
+          text: アカウントの登録
+        - url: getting-started/linking-microsoft-account.md
+          text: Microsoft アカウントのリンク
+        - url: getting-started/wmr-installation.md
+          text: Windows Mixed Reality のインストール
+        - url: getting-started/wmr-controls.md
+          text: Windows Mixed Reality コントロール
+        - url: getting-started/oculus-installation.md
+          text: Oculus Quest のインストール
+        - url: getting-started/oculus-controls.md
+          text: Oculus Quest のインストール
+    - title: イベントの作成とホスト
+      imageSrc: images/icon-events.png
+      links:
+        - url: tutorials/creating-an-event.md
+          text: イベントの作成
+        - url: getting-started/roles.md
+          text: イベント、ワールド、グループでのロール
+        - url: tutorials/main-events.md
+          text: イベントの要件
+        - url: faqs/scaling-audiences.md
+          text: 対象ユーザーの拡大縮小
+        - url: tutorials/multimedia-console.md
+          text: マルチメディア コンソールの使用
+        - url: tutorials/host-tools-overview.md
+          text: ホスト ツールの概要
+    - title: ワールド構築
+      imageSrc: images/icon-worlds.png
+      links:
+        - url: world-building/world-editor-getting-started.md
+          text: ワールド エディターを確認する
+        - url: world-building/managing-worlds.md
+          text: ワールドの管理
+        - url: world-building/adding-custom-spawn-points.md
+          text: スポーン ポイントの追加
+        - url: world-building/adding-user-abilities.md
+          text: ユーザーへの能力の付与
+        - url: world-building/world-building-toolkit-getting-started.md
+          text: World Building Toolkit
+        - url: world-building/using-mixed-reality-extensions.md
+          text: Mixed Reality Extensions の使用
+additionalContent:
+  sections:
+    - title: その他のリソース
+      summary: ヘルプまたはサポートが必要な場合
+      items:
+        - title: コミュニティ
+          links:
+            - text: ニュースレターを購読する
+              url: community/newsletter-subscriptions.md
+            - text: コミュニティ ヘルパー プログラム
+              url: community/community-helper-program.md
+            - text: コミュニティ ヘルパー ガイド
+              url: community/community-helper-guide.md
+        - title: トラブルシューティングとサポート
+          links:
+            - text: オーディオに関する問題
+              url: faqs/vr-headset-mic.md
+            - text: アカウントとアバター
+              url: faqs/nametags.md
+            - text: AltspaceVR アプリケーション
+              url: faqs/app-version.md
+            - text: 健康と安全
+              url: faqs/motion-sickness.md
+            - text: イベント
+              url: faqs/front-row-events.md
+        - title: お問い合わせ
+          links:
+            - text: サポート チケットを開く
+              url: community/open-support-ticket.md
+            - text: 機能のリクエスト
+              url: community/feature-requests.md
+            - text: 不正悪用レポートの提出
+              url: community/filing-abuse-reports.md
