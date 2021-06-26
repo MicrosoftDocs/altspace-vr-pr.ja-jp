@@ -4,12 +4,12 @@ description: 使用可能なクライアントログのフィールドと、そ�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: クライアントログ
-ms.openlocfilehash: 82b45859bcfb9dec6f9b7690637ec0a9e497a8dd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213143"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923169"
 ---
 # <a name="how-do-i-upload-my-client-logs"></a>クライアントログをアップロード操作方法には
 
@@ -31,3 +31,9 @@ Altspace Evr のクライアントログをアップロードするには、[ **
 **"最後のログをアップロードする"** このボタンをクリックすると、前のセッションからログがアップロードされます。
 
 **"最後のクラッシュログをアップロードする"** このボタンをクリックすると、経験した最新のクラッシュからさらに多くのログコンテンツがアップロードされます。
+
+## <a name="in-client-logs"></a>クライアントログで
+
+コンピューターからログファイルを取得することもできます。 これらのログを取得する方法については、 [こちら](https://docs.microsoft.com/windows/mixed-reality/altspace-vr/faqs/app-version#in-client-logs)を参照してください。
+
+これらのファイルを見つけたら、 [サポートチケットを開き](https://help.altvr.com/hc/en-us/requests/new) 、[送信] をクリックする前にチケット要求でログをアップロードします。

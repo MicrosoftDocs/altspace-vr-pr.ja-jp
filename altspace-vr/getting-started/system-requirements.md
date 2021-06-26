@@ -1,15 +1,15 @@
 ---
 title: 最小システム要件
 description: 最新のシステム要件については、「ヘッドマウントされたディスプレイ、Oculus Rift、および HTC Naopak デバイスでの Altworkplace Evr」を最新の状態に維持してください。
-ms.date: 03/11/2021
+ms.date: 06/03/2021
 ms.topic: article
-keywords: 要件, ヘッドマウントされたディスプレイ, oculus rift, htc naopak, windows 2d モード
-ms.openlocfilehash: 2220b876568fa2f5f253c08120d7e5cf0a2e5c50
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: 要件, ヘッドマウントディスプレイ, oculus rift, htc naopak, windows 2d モード
+ms.openlocfilehash: db76d3594102d292d0d6f3741222b92a1677640a
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212998"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923159"
 ---
 # <a name="minimum-system-requirements"></a>最小システム要件
 

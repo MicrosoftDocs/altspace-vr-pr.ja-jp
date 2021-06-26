@@ -1,17 +1,17 @@
 ---
-title: Altて Evr を探索しています
+title: AltspaceVR の探索
 description: Curated のチェックポイント処理を使用して、Altworkplace Evr プラットフォームで仮想イベントの作成とホスティングを開始します。
 ms.date: 03/29/2021
 ms.topic: article
 keywords: altspace、virtual reality、events、world ビル、チュートリアル
-ms.openlocfilehash: 4eee1f00e76acca16323cb76c576307a33d50796
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213073"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923059"
 ---
-# <a name="exploring-altspacevr"></a>Altて Evr を探索しています
+# <a name="exploring-altspacevr"></a>AltspaceVR の探索
 
 ![Altスペース Evr バナーの画像](images/altspace-vr-banner.png)
 
@@ -27,8 +27,7 @@ Altworkplace Evr は、仮想現実の主要なソーシャルプラットフォ
 | --- | --- |
 | [システム要件](getting-started/system-requirements.md) | 使用を開始するための適切なツールとシステム要件があることを確認します。 |
 | [Windows Mixed Reality](getting-started/wmr-installation.md)または[Oculus クエスト](getting-started/oculus-installation.md)をインストールする| 最新の Windows Mixed Reality アプリまたは Oculus クエストアプリをダウンロードしてインストールする |
-| [Altて Evr アカウントを登録する](getting-started/registration.md) | Altworkplace Evr アプリ内でアカウントの作成と登録を行う |
-| [Microsoft アカウントのリンク](getting-started/linking-microsoft-account.md) | Microsoft アカウントを統合して、お気に入りの Microsoft 製品やサービスに1回のログインでアクセスする |
+| [Altworkplace Evr アカウントを作成してリンクする](getting-started/creating-and-linking-accounts.md) | Altworkplace Evr アプリ内でアカウントを作成して登録し、Microsoft アカウントにリンクする|
 
 ## <a name="2-getting-comfortable"></a>2. 快適に
 
@@ -74,7 +73,7 @@ Altspace Evr イベントは仮想環境で実行されるため、仮想空間�
 | [ワールドパフォーマンスの向上](world-building/improving-performance.md) | パフォーマンスに関する診断、パフォーマンスツール、トラブルシューティングのヒントを取得する |
 | [カスタム skyboxes のインポート](world-building/uploading-custom-skyboxes.md) | 独自のカスタム skyboxes を作成してインポートし、仮想スペースをさらにイマーシブにする |
 
-**ホスティングツール**
+**ホスティング ツール**
 
 |  Checkpoint  |  結果  |
 | --- | --- |
