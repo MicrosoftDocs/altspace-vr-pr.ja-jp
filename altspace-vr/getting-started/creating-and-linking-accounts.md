@@ -1,17 +1,26 @@
 ---
 title: Altworkplace Evr アカウントの作成とリンク
 description: 新しい Altworkplace Evr アカウントを作成する手順と、既存の Altを Microsoft アカウントにリンクする方法について、手順を追って説明します。
-ms.date: 05/18/2021
+ms.date: 06/25/2021
 ms.topic: article
-keywords: 登録, アカウント, アカウントの作成, アカウントリンク, microsoft アカウント, faq, トラブルシューティング, 2D モード, VR モード
-ms.openlocfilehash: f6009a868810f566590d076b3aa5606c885697b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: 登録、アカウント、アカウントの作成、アカウントのリンク、microsoft アカウント、faq、トラブルシューティング、2D モード、VR モード、ユーザー名、表示、名前
+ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
+ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961285"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "112975839"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>Altworkplace Evr アカウントの作成とリンク
+
+## <a name="disclaimer-regarding-account-linking"></a>アカウントリンクに関する免責事項
+
+次に、Altare Evr アカウントを作成し、リンクするためのさまざまな方法を示します。
+
+アカウントの作成時または更新時には、Alt"password" を必要とする機能がまだあることに注意してください。
+
+MSA を使用してアカウントを作成済みで、Altを持っていない場合は、にサインインし https://www.altvr.com/ て、プロファイルに移動し、[サインアウトして新しいパスワードを取得する] をクリックします。
+
 
 ## <a name="how-to-create-an-account-in-vr"></a>VR でアカウントを作成する方法
 
@@ -88,9 +97,11 @@ PC での2D モードとのリンク:
 
 **ユーザー名または表示名を変更する方法はありますか**
 
-アカウントに関連付けられているユーザー名を変更する場合は、 [チケットをお送り](https://help.altvr.com/hc/requests/new)ください。 アカウントに関連付けられている電子メール、現在の名前、および今後使用するユーザー名を必ず含めてください。
+**ユーザー名または表示名** を変更するには、altvr.com にサインインし、右上にあるプロファイルアイコンを選択し、ユーザープロファイルを編集して、ユーザー名または表示名を更新します。 
 
-**表示名** を変更するには、altvr.com にサインインし、右上、[ユーザープロファイル]、[編集]、および [更新] 表示名でプロファイルアイコンを選択します。
+*注: ユーザー名は一度しか変更できません。その後、いつでもサポートチケットを送信する必要があります。*
+
+アカウントに関連付けられているユーザー名を変更する場合は、 [チケットをお送り](https://help.altvr.com/hc/requests/new)ください。 アカウントに関連付けられている電子メール、現在の名前、および今後使用するユーザー名を必ず含めてください。
 
 **メニューが空白で、サインアップできません。どうすればよいですか。**
 
