@@ -11,12 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: Oculus Quest/Quest 2 のインストール
       href: getting-started/oculus-installation.md
-    - name: アカウントの作成
-      items:
-        - name: アカウントの登録
-          href: getting-started/registration.md
-        - name: Microsoft アカウントのリンク
-          href: getting-started/linking-microsoft-account.md
+    - name: アカウントの作成とリンク
+      href: getting-started/creating-and-linking-accounts.md
     - name: 入力コントロール
       items:
         - name: Windows Mixed Reality コントロール
@@ -67,6 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: テレポーター
           href: tutorials/teleporting.md
+        - name: 記録とライブ ストリーミング
+          href: tutorials/recording-and-live-streaming.md
     - name: ホスティング ツール
       items:
         - name: 概要
@@ -103,6 +101,10 @@
           items:
             - name: World Building Toolkit (Unity Uploader)
               href: world-building/world-building-toolkit-getting-started.md
+            - name: Unity の最新バージョンにコンテンツを更新する
+              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: モバイル パフォーマンス最適化ガイド
+              href: world-building/unity-mobile-performance-guide.md
             - name: Mixed Reality Extensions の使用
               href: world-building/using-mixed-reality-extensions.md
             - name: キットのアップロード
@@ -143,6 +145,8 @@
               href: faqs/nametags.md
             - name: アカウント情報を変更するにはどうすればよいですか?
               href: faqs/updating-email-address.md
+            - name: アカウントのリンク解除と再リンクの方法を教えてください。
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: AltspaceVR アプリケーション
           items:
             - name: AltspaceVR アプリのバージョンはどうやって確認できますか?

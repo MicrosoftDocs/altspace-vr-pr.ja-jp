@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: 作業の開始
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     - title: コンテンツとユーザーの検出
       itemType: overview
       url: getting-started/system-requirements.md
@@ -38,10 +38,8 @@ productDirectory:
     - title: セットアップとインストール
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: アカウントの登録
-        - url: getting-started/linking-microsoft-account.md
-          text: Microsoft アカウントのリンク
+        - url: getting-started/creating-and-linking-accounts.md
+          text: アカウントの作成とリンク
         - url: getting-started/wmr-installation.md
           text: Windows Mixed Reality のインストール
         - url: getting-started/wmr-controls.md
@@ -49,7 +47,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Oculus Quest のインストール
         - url: getting-started/oculus-controls.md
-          text: Oculus Quest のインストール
+          text: Oculus Quest コントロール
     - title: イベントの作成とホスト
       imageSrc: images/icon-events.png
       links:
