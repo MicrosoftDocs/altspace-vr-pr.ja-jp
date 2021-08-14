@@ -4,12 +4,12 @@ description: さまざまな Unity プロパティを使用して、Oculus ク�
 ms.date: 04/20/2021
 ms.topic: article
 keywords: ワールドエディター、パフォーマンス、oculus、quest、unity、テクスチャ、ライトマップ、stats、profiler、描画呼び出し、altアップローダー evr、
-ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
-ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
+ms.openlocfilehash: d5689e245c10ccb61abdd0aaa2327132d4374bb7e53a2eaec316d991b38378fb
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "113634293"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126978"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>Altworkplace Evr モバイルパフォーマンスガイド
 
@@ -44,7 +44,7 @@ ms.locfileid: "113634293"
 
 * **フレームデバッガー** (ウィンドウ、分析、フレームデバッガーの下にあります)。  重きの [Stats] パネルを使用すると、GPU がどのように描画されているかを確認して最終的なイメージを作成することができます。これにより、最初から最後までの drawcalls の一覧が表示されます。  これにより、描画呼び出しが前の描画呼び出しでバッチ処理されなかった理由がわかります (つまり、' このオブジェクトは別の素材を使用します "または" このオブジェクトは別のライトマップを使用します ")。これは、シーンで起こっていること、および特定の視覚選択によって計算コストが高いのはどのよう
 
-* **プロファイラー** では、ゲームの実行中にどの時点でどの部分が使用されているかがわかります。 パフォーマンスの bottlenecking を判断するのに役立ちます。  たとえば、シーンに大量の CPU 使用率が表示されている場合、描画呼び出しが多すぎる可能性があります。または、GPU の使用率が高い場合は、複数の透明なサーフェイスを持つことによって発生する可能性がある過剰なオーバードローが発生している可能性があります。、、またはオブジェクトがビューの外でカリングされていません。
+* **プロファイラー** では、ゲームの実行中にどの時点でどの部分が使用されているかがわかります。 パフォーマンスの bottlenecking を判断するのに役立ちます。  たとえば、シーンで CPU 使用率が高くなっている場合は、描画呼び出しが多すぎる可能性があります。また、GPU 使用率が高い場合は、複数の透明なサーフェスを持つことによって発生する可能性のある過剰なオーバーオーバーが発生する可能性があります (つまり、1つのピクセルがレンダリングされる回数) ビューの外で、オブジェクトまたはオブジェクトがカリングされていません。
 
 ## <a name="draw-calls-shadersmaterialsobjects"></a>**描画呼び出し (シェーダー/素材/オブジェクト)**
 

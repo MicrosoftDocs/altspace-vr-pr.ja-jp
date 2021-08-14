@@ -1,22 +1,22 @@
 ---
-title: World 建築ツールキットの概要
-description: Unity シーンテンプレートを使用して、世界ビルのツールキットを使用して、AltspaceVR ワールドをセットアップしてアップロードする方法について説明します。
+title: 世界ビルの Toolkit を紹介する
+description: Unity シーンテンプレートを使用して、世界ビルの Toolkit で、Altを設定してアップロードする方法について説明します。
 ms.date: 03/11/2021
 ms.topic: article
 keywords: toolkit
-ms.openlocfilehash: 3b41f02aec1077a37b95a6826c105e1cd31974e3
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 8b66e35509060e00b2e52d3770380d009d7060339003f534d23fdd47372a57f0
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923079"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125408"
 ---
-# <a name="introducing-the-world-building-toolkit"></a>World 建築ツールキットの概要
+# <a name="introducing-the-world-building-toolkit"></a>世界ビルの Toolkit を紹介する
 
 > [!NOTE]
-> World 建築ツールキットは、当社のすばらしい友人である [Anthony Madden](https://twitter.com/chigamesstudio)によって実行されるコミュニティプロジェクトです。 興味をお持ちの場合は、 [公式の Altspacevr Discord](https://discordapp.com/invite/altspacevr) に参加し、#world ビルディングチャネルにアクセスしてください。 現在、Mac 試用版ベータ版があります。詳細については、こちらを[参照](https://altvr.com/altspacevr-mac)してください。
+> 世界ビルの Toolkit は、当社のすばらしい友人である[Anthony madden](https://twitter.com/chigamesstudio)によって実行されるコミュニティプロジェクトです。 興味をお持ちの場合は、 [公式の Altspacevr Discord](https://discordapp.com/invite/altspacevr) に参加し、#world ビルディングチャネルにアクセスしてください。 現在、Mac 試用版ベータ版があります。詳細については、こちらを[参照](https://altvr.com/altspacevr-mac)してください。
 
-アップローダーでは、Unity シーンを世界のテンプレートとして使用することができます。 満塁を使用すると、人気のあるハロウィーンやお気に入りの作成に使用することができます。 Unity にインポートできる場合は、この方法で Altspace にアクセスできる可能性があります。 いくつかの [例](https://account.altvr.com/worlds/1046572460192825569)を次に示します。
+アップローダーでは、Unity シーンを世界のテンプレートとして使用することができます。 Minecraft から、満塁の家にハロウィーンやお気に入りの作成を持ち込むことができます。 Unity にインポートできる場合は、この方法で Altspace にアクセスできる可能性があります。 いくつかの [例](https://account.altvr.com/worlds/1046572460192825569)を次に示します。
 
 ![ワールドの例](images/unity-uploader-img-01.png)
 
@@ -31,20 +31,20 @@ ms.locfileid: "112923079"
 
 ![作成されたワールド画面](images/unity-uploader-img-02.png)
 
-## <a name="upload-your-scene"></a>シーンをアップロードする
+## <a name="upload-your-scene"></a>シーンのアップロード
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
 1. Unity Hub を開き、新しい Unity 2020.3.9 プロジェクトを作成します。
 2. プロジェクトを開いた状態で、ダウンロードしたファイル (Unity パッケージ) をダブルクリックしてアップローダーをインポートします。 これで、 **altと** いう新しいタブが表示されます。 Altspace で使用するすべての Unity プロジェクトのパッケージをインポートする必要があります。
-3. **メニュー > alt> ビルド設定** を開く
+3. **メニュー > alt> Build 設定** を開く
 4. Altspace アカウントの資格情報でサインインします
 5. [**テンプレートの読み込み**] を選択し、[ **Hello World テンプレート**] を選択します。
 6. シーンにキューブを追加して保存します。
-7. **Windows のビルド** を確認し、 **Android の場合は [ビルド]** をオフにしますか?
-8. **[アップロード]** を選択します。 約1分で [ **アップロード** が完了しました] と表示されます。
+7. **Windows のビルド** を確認し、 **Android 用のビルドをオフにしますか**?
+8. **[アップロード]** を選択します。 約1分で **アップロード** 完了したことがわかります。
 9. Altspace を起動して **メニュー > ワールド >** を入力して **Hello World** 参加する
-10. **メニュー > 設定 > 中程度の設定** にリセットして領域をリセット >
+10. **メニュー > 設定 > 中 > 程度の間隔で領域** をリセットします。
 11. キューブが表示されます。 上記のビデオのようにすばやく実行すると、10秒ほどではなく変更を確認できます。
 
 ## <a name="whats-supported"></a>サポートされる操作
@@ -52,7 +52,7 @@ ms.locfileid: "112923079"
 * はい: モデル、競合、アニメーション、パーティクル効果、オーディオ、skyboxes など
 * いいえ: スクリプト。 セキュリティ上の理由から、スクリプトを含むアップロードは拒否されます
 * 場合によっては、動的なグローバル照明のような凝った
-* 異なるプラットフォームのシーンを個別またはまとめてアップロードする
+* 異なるプラットフォームのシーンを個別または組み合わせてアップロード
 * アップローダーを使用して構築された、 [おすすめの世界](https://account.altvr.com/worlds/featured)をご覧ください
 
 ## <a name="tips"></a>ヒント
@@ -62,7 +62,7 @@ ms.locfileid: "112923079"
 
 ![アップロードが強調表示された状態で開く [テンプレート] パネル](images/unity-uploader-img-03.png)
 
-* を更新するときに、その中でも使用できます。 アップローダーが " **アップロード完了** " と表示されたら、世界をリセットして変更内容を確認できます。
+* を更新するときに、その中でも使用できます。 アップローダーが **完了アップロード** と表示されたら、世界をリセットして変更を確認することができます。
 * 簡単なシーンを使用した PC 用のビルドでは、Altspace の変化を確認するために1分未満でなければなりません。
 * 取られるを避けるために、世界をプライベートに設定し、一覧から削除します。
 * 既定でユーザーが生成する場所を確認できるように、キューブを配信元に配置します。 アップロード時にキューブを非表示にします。
@@ -77,7 +77,7 @@ ms.locfileid: "112923079"
     * お持ちの方は、 アップローダーと World 形式で適切なテンプレートを選択しましたか?
     * テンプレートページの統計情報を確認しましたか?
 
-**アップロードが失敗またはタイムアウトする**
+**アップロードの失敗またはタイムアウト**
     * 最も一般的なアップロードエラーの Unity バージョンが間違っています。 必要なバージョンと正確に一致している必要があります。
     * アップロードが大きすぎる可能性があります。 PC のシーン < 100 MB に保つようにしてください。 小規模に開始し、構築します。 Optimize、optimize、optimize。
     * 単純なキューブを使用して、新しいプロジェクトを試してください。

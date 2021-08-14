@@ -4,12 +4,12 @@ description: テレポーターを使用して、あるイベントや世界か�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: テレポーター
-ms.openlocfilehash: afc199e958824bb5f0a9ff6d74865cbcd3f16868
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 79c5b09e1643a70939ba1e967a948ac6c80c2b615bce9eef598d0e07b7722ea3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213418"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126189"
 ---
 # <a name="using-the-teleporter"></a>テレポーターを使用する
 
@@ -45,7 +45,7 @@ ms.locfileid: "107213418"
 
 (たとえば、Foundation World、Unity アップローダー Space テンプレート、Re-Import 世界など) カスタムの世界で前の行を使用して、カンファレンス、サミット、またはそれ以上のイベントを作成する場合は、実際のイベントではなく、テレポーターを Foundation 環境で設定する必要があります。 テレポーターを設定していることを確認します (最近の一覧に含まれている)。基盤の世界では、イベントの世界を Re-Import して、すべての先頭行のイベント空間にテレポーターを表示するようにします。
 
-## <a name="faqs"></a>よく寄せられる質問
+## <a name="faqs"></a>FAQ
 
 **エラー: ' 申し訳ありませんが、お客様にはお任せできません '**
 

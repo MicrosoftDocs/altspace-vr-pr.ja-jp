@@ -1,40 +1,40 @@
 ---
-title: コミュニティヘルパープログラム
+title: コミュニティ ヘルパー プログラム
 description: Altworkplace Evr コミュニティに関してよく寄せられる質問とその回答について、最新の情報を入手してください。
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq、コミュニティ、ヘルパープログラム、よく寄せられる質問
-ms.openlocfilehash: cbf80bb39333a62ec7fb60301b0fea1b259b5278
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 9c1f95f33d4fb5eb41efcd0339ae5c1b35d16fe6ff78446796c4e789590411a3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213383"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126525"
 ---
-# <a name="community-helper-program"></a>コミュニティヘルパープログラム
+# <a name="community-helper-program"></a>コミュニティ ヘルパー プログラム
 
-## <a name="what-is-a-community-helper"></a>コミュニティヘルパーとは 
+## <a name="what-is-a-community-helper"></a>Community ヘルパーとは 
 
-コミュニティヘルパーは、情報を共有し、他の人に教えること、コミュニティ大使として機能するための時間をボランティアする標準の Alt Evr メンバーです。 これは、イベントホスティングや世界ビルなどの Alt知性のさまざまな側面に精通しており、 [コミュニティの標準](community-standards.md) と [サービス条件](terms-of-service.md)を遵守しています。 コミュニティヘルパーは、altplace Evr のスタッフまたは管理者ではありませんが、新しい人々を歓迎し、その他のユーザーにとっては、altplace Evr の文化について説明し、すべてのユーザーに対して、すべてのメンバーを歓迎しています。
+Communityヘルパーは、情報を共有し、他の人に教えること、コミュニティ大使として機能するための時間をボランティアする標準の Altare Evr メンバーです。 これは、イベントホスティングや世界ビルなどの alt知性のさまざまな側面に精通しており、それらの標準と[サービス条件](terms-of-service.md)を遵守[Community](community-standards.md)しています。 Community ヘルパーは、altplace evr のスタッフまたは管理者ではありませんが、新しい人々を歓迎し、他のユーザーにとっては、altplace evr の文化について説明し、altplace evr がすべてについて歓迎します。
 
-## <a name="how-do-i-find-a-community-helper"></a>コミュニティヘルパーを検索操作方法には 
-コミュニティヘルパーは、どこにいても、すべての場所に存在します。 アバターをポイントして名前タグを確認することで、それらを識別できます。 コミュニティヘルパーの名前タグには、緑色の輪郭と、緑色のハートのバッジが付いています。 コミュニティヘルパーは、ボランティアの大使であるため、好きなときにいつでもバッジのオン/オフを切り替えることができます。
+## <a name="how-do-i-find-a-community-helper"></a>Community ヘルパーを検索操作方法には 
+Communityヘルパーは、すべての場所に存在します。 アバターをポイントして名前タグを確認することで、それらを識別できます。 Communityヘルパーの name タグには、緑色の輪郭と、緑色のハートのバッジが付いています。 これらはボランティアで大使されているので、Community ヘルパーは自分のバッジをいつでもオン/オフに切り替えて、通常の altスペーサーとして使用することができます。
 
-## <a name="how-can-i-become-a-community-helper"></a>コミュニティヘルパーになるにはどうすればよいですか。 
+## <a name="how-can-i-become-a-community-helper"></a>Community ヘルパーにするにはどうすればよいですか。 
 
 修飾 
 
-コミュニティヘルパーの役割を適用するには、すべてのコミュニティヘルパーが少なくとも3か月 (90 日) の場合は、Altて Evr の一部である必要があります。 コミュニティヘルパーとして適用するには、次の3つの要件のうち少なくとも2つを満たす必要があります。 
+Community Helper ロールに適用する前に、すべての Community ヘルパーは、少なくとも3か月 (90 日) の altて evr の一部である必要があります。 を Community ヘルパーに適用するには、次の3つの条件のうち少なくとも2つを満たす必要があります。 
 
 1. 過去1か月 (30 日) に少なくとも3つの [主要なイベント](../tutorials/main-events.md) をホストしています。 
 2. 過去3か月間 (90 日) に少なくとも5つの [主要なイベント](../tutorials/main-events.md) をモデレートしました。 
-3. コミュニティサポートチームメンバーが、Alt、コンテンツ、コミュニティなどにすばらしい貢献をしていることをお勧めします。
+3. Community サポートチームのメンバーが、alt(カルチャ、コンテンツ、コミュニティなど) へのすばらしい投稿を行うことをお勧めします。
 
-## <a name="what-would-i-be-expected-to-do-as-a-community-helper"></a>コミュニティヘルパーとして何をする必要がありますか。 
+## <a name="what-would-i-be-expected-to-do-as-a-community-helper"></a>Community ヘルパーとして何をする必要がありますか。 
 
-コミュニティヘルパーとして、次のような期待を満たしているか、それを超える必要があります。 
+Community ヘルパーとして、次のような期待を満たしているか、それを超える必要があります。 
 
-1. [コミュニティの標準](community-standards.md)と[サービス利用規約](terms-of-service.md)に従ってください。
+1. [Community の標準](community-standards.md)と[サービス利用規約](terms-of-service.md)に従ってください。
 2. 知性の行動を歓迎し、安全で成熟しています。
 3. コミュニティと Alt、チーム間の連絡窓口として機能します。
     * 他のユーザーのために、可能な場合は役に立ちます。
@@ -48,19 +48,19 @@ ms.locfileid: "107213383"
     * [公式の Discord サーバー](https://altvr.com/discord)に便利で効果的な方法で参加する
     * ビルドワールド、MRE を使用した作成など。 
 
-## <a name="do-i-get-special-privileges-as-a-community-helper"></a>コミュニティヘルパーとして特別な特権を取得しますか。 
+## <a name="do-i-get-special-privileges-as-a-community-helper"></a>Community ヘルパーとして特別な特権を取得しますか。 
 
 うん。。。 私たちは、お客様に感謝しています。 また、
 
-1. 投票-中断: コミュニティヘルパーとして、トロールに対してアクションを実行するための追加の安全性ツールがあり、コミュニティ標準に違反しています。 [ここで](community-helper-guide.md)は、投票に対する & の責任の規則を確認します。
-2. 公式の AltspaceVR Discord サーバーの特別なコミュニティヘルパーチャネルへのアクセス。
+1. 投票-中断: Community ヘルパーとして、トロールに対してアクションを実行するための追加の安全性ツールがあり、Community 標準に違反しています。 [ここで](community-helper-guide.md)は、投票に対する & の責任の規則を確認します。
+2. 公式の altspacevr discord サーバーの特別な Community ヘルパーチャネルへのアクセス。
 3. 特定のコミュニティへのお知らせへの早期アクセス。
 
 ## <a name="other-considerations"></a>その他の注意事項
 
-また、権利の要件を満たしていない場合、予想を守ることができなかった場合にコミュニティヘルパーバッジを失効させる権利を留保します。また、プログラムの容量、コミュニティ標準の違反、サービス利用規約について、記載されていないが有効であると考えられる理由についても説明します。
+また、権利の要件を満たすことができなかった場合、Community ヘルパーバッジを失効させる権利が予約されています。これは、必要な条件を満たしていない場合、予想を守ることができなかった場合には、プログラムの容量、Community 標準とサービス利用規約の違反、記載されていないが有効と見なされる理由
 
-コミュニティヘルパーで、バッジを紛失した場合、または他の方法でバッジを設定した場合は、プログラムに再適用する前に、6か月以上 (180 日) 待つ必要があります。
+Community ヘルパーで、バッジを紛失した場合、またはその他の方法でバッジを設定した場合は、プログラムに再適用する前に、少なくとも6か月 (180 日) 待つ必要があります。
 
 適用する準備はできましたか?
-すばらしい。 [ここで適用](https://help.altvr.com/hc/requests/new?ticket_form_id=360002060313)してください。
+すばらしいことです。 [ここで適用](https://help.altvr.com/hc/requests/new?ticket_form_id=360002060313)してください。

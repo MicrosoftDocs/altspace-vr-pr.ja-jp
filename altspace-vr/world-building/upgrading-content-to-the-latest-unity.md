@@ -4,12 +4,12 @@ description: 最新バージョンの Unity にコンテンツを更新する方
 ms.date: 06/4/2021
 ms.topic: article
 keywords: キット, ワールド, unity, 更新, シェーダー, アップローダー, トラブルシューティング
-ms.openlocfilehash: f8a805c4b3350f2c97c43d3d48c35733ec7e9710
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a10e64b4dc19e256dcae9d61620de0140db60ccc0bf2a10dc864313f139bbd10
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961254"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126763"
 ---
 # <a name="updating-content-to-the-latest-unity-version"></a>最新の Unity バージョンにコンテンツを更新しています
 
@@ -28,7 +28,7 @@ ms.locfileid: "112961254"
 
 次のプレビューバージョンの Altを使用して、VR で新しく更新されたコンテンツをテストします。 プレビューバージョンはテストのみを目的としており、プラットフォームの一般的な使用には使用しないでください。
 
-* [Windows Mixed Reality の Altworkplace Evr SPI Preview](https://aka.ms/AvrSpiMr)
+* [Windows Mixed Reality の Altworkplace Evr SPI プレビュー](https://aka.ms/AvrSpiMr)
 * [SteamVR の Altworkplace Evr SPI Preview](https://aka.ms/AvrSpiSteam)
 * [Oculus Rift の Altworkplace Evr SPI Preview](https://aka.ms/AvrSpiRift)
 
@@ -37,7 +37,7 @@ ms.locfileid: "112961254"
 
 ## <a name="storecompatibilitycheck"></a>ストア互換性チェック
 
-Unity 2020.3.9 へのアップグレードは、ヘッドセットとストアのビルドの互換性にも影響します。 これで、ヘッドセットと互換性のあるストアから Altをダウンロードする必要があります。 例として、WinMR または Oculus のヘッドセットの場合は、Windows ストアまたは Oculus ストアから、それぞれ Alt をダウンロードします。 Windows Mixed Reality ユーザーは、Windows ストアから AltOculus をダウンロードし、ストリームからのユーザーの SteamVR ユーザーと、Oculus ストアの Rift ユーザーをダウンロードする必要があります。
+Unity 2020.3.9 へのアップグレードは、ヘッドセットとストアのビルドの互換性にも影響します。 これで、ヘッドセットと互換性のあるストアから Altをダウンロードする必要があります。 例として、winmr または Oculus のヘッドセットの場合は、それぞれ Windows ストアまたは Oculus ストアから alt をダウンロードします。 Windows Mixed Reality ユーザーは、Windows ストアから altOculus をダウンロードし、ストリームからのユーザーと Oculus Rift のユーザーをストアからダウンロードする必要があります。
 
 ## <a name="altspacevr-uploader-v090-upgrade-guide"></a>Alt0.9.0 Evr アップローダー v のアップグレードガイド 
 
@@ -69,7 +69,7 @@ Unity 2020.3.9 へのアップグレードは、ヘッドセットとストア�
 
 6. **アップローダーをインストール** します。 MR 機能ツールを使用して Unity プロジェクトを選択し、Alt Evr アップローダー機能を追加します (alt の見出しの下)。 ツールの指示に従います。
 
-MacOS では、 [レジストリ](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)から最新バージョンを手動でダウンロードし、Unity エディターのパッケージマネージャー内からインストールします (Windows > パッケージマネージャー > + > パッケージを Tar から追加します)。
+macOS では、[レジストリ](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)から最新バージョンを手動でダウンロードし、Unity エディターのパッケージマネージャー内からインストールします (Windows > パッケージマネージャー > + > [tar からパッケージを追加])。
 
 パッケージのインポートが完了したら、使い慣れたアップローダーウィンドウを [Alt] メニュー項目で使用できるようになります。
 
@@ -77,12 +77,12 @@ MacOS では、 [レジストリ](https://dev.azure.com/aipmr/MixedReality-Unity
 
 1. WinMR ヘッドセットでコントローラーまたは入力の問題が発生している場合は、プレゼンスセンサーに適切に参加するために、ヘッドに設置されていることを確認します。 これは既知の問題であり、マイクロソフトはその解決に積極的に取り組んでいます。
 
-2. ヘッドセットとストアとビルドの互換性を確認します。 たとえば、WinMR ヘッドセットを使用している場合は、Windows ストアを通じて Altを取得したことを確認してください。
+2. ヘッドセットとストアとビルドの互換性を確認します。 たとえば、winmr ヘッドセットを使用している場合は、Windows ストアを通じて altを取得したことを確認してください。
 
 3. テスト中に、コンテンツが VR モードの1つ目にのみ表示されることが判明した場合は、使用するカスタムシェーダーで SPI レンダリングがサポートされていない可能性があります。 別のシェーダーを選択するか、 [Unity の SPI アップグレードガイド](https://docs.unity3d.com/Manual/SinglePassInstancing.html) に従ってシェーダーを手動で編集し、サポートを追加する必要があります。
 
 4. WinMR の場合は、次のことを行う必要があることに注意してください。 
-    1. Microsoft Store から Windows Mixed Reality の OpenXR をダウンロードしてインストールします。
+    1. Microsoft Store から Windows Mixed Reality 用の OpenXR をダウンロードしてインストールします。
         1. Mixed Reality ポータルアプリを開く
         2. アプリの左下隅にある [詳細を表示] を選択します。
-        3. 表示されたメニューで、[Set Up OpenXR] を選択します。 これにより、ランタイムをインストールできる Windows ストアが起動されます。 このメニュー項目が表示されない場合は、OpenXR が既に PC にインストールされている可能性があります。
+        3. 表示されたメニューで、[Set Up OpenXR] を選択します。 これにより、ランタイムをインストールできる場所から Windows ストアが起動されます。 このメニュー項目が表示されない場合は、OpenXR が既に PC にインストールされている可能性があります。

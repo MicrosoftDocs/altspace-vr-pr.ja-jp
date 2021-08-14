@@ -1,52 +1,52 @@
 ---
 title: 概要
-description: Altて Evr、mixed reality の拡張機能、ワールドエディターについて説明し、開発中に支援を受ける方法について説明します。
+description: AltspaceVR、Mixed Reality 拡張機能、ワールド エディター、開発中にヘルプを表示する方法について学習します。
 ms.date: 02/10/2021
 ms.topic: article
-keywords: ワールドエディター、unity アップローダー、フォーラム
-ms.openlocfilehash: e2277e1425af72544d2e1ed450e01a15ff537039
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: world editor, unity uploader, forums
+ms.openlocfilehash: 97003073facfa0f4135111fff0ed6128b42ca81b96a8a70fdebef22d8988f548
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213108"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126321"
 ---
-# <a name="getting-started-with-altspacevr"></a>作業の開始 (Altworkplace Evr)
+# <a name="getting-started-with-altspacevr"></a>AltspaceVR の使用を開始する
 
-Altworkplace Evr 開発者フォーラムへようこそ。 次のセクションでは、Altworkplace Evr にコンテンツを追加するさまざまな方法について説明します。
+AltspaceVR 開発者フォーラムへようこそ。 次のセクションでは、AltspaceVR にコンテンツを追加するさまざまな方法について説明します。
 
 ## <a name="mixed-reality-extension-mre-sdk"></a>Mixed Reality 拡張機能 (MRE) SDK
 
-MRE SDK は、Node.JS を使用して、AltspaceVR 拡張機能をビルドするための新しい SDK です。 作業を開始するには:
+MRE SDK は、 を使用して AltspaceVR 拡張機能をビルドする新しい SDK Node.JS。 作業を開始するには:
 
-1. (ストリームまたは Oculus ストアから) Alt をインストールし、Alt を作成して、アプリについて理解します。
-2. [Git コマンドラインツールのインストール](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-3. [Mre SDK サンプルリポジトリ](https://github.com/Microsoft/mixed-reality-extension-sdk-samples)にアクセスし、サンプルをビルドして実行するための詳細な手順に従います。
+1. AltspaceVR (Steam または Oculus Store から) をインストールし、AltspaceVR アカウントを作成して、アプリについて理解します。
+2. [Git コマンド ライン ツールをインストールする](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+3. [MRE SDK サンプル リポジトリ](https://github.com/Microsoft/mixed-reality-extension-sdk-samples)に移動し、詳細な手順に従ってサンプルをビルドして実行します
 
 次のこともできます。
 
-* [MRE SDK Discord コミュニティ](https://discord.com/invite/xyBcQec)に参加して、他の mre 開発者とチャットしてください。
-* [Vs-tac-Toe ビデオのビルドを見る](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
-* [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)で mres を編集してビルドする方法について説明します
-* [Hello World ソースコード](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world)を参照する
-* [ミートアップでの毎週の developer に](https://account.altvr.com/channels/sdk)参加する
+* [MRE SDK Discord Community参加](https://discord.com/invite/xyBcQec)して、他の MRE 開発者とチャットします。
+* [Building Tic-Tac-Toe のビデオを見る](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
+* アプリケーションを使用して MREs を編集[およびビルドする](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)方法Visual Studio Code
+* ソース コード [Hello World参照する](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world)
+* [AltspaceVR で毎週の開発者向け会議に参加する](https://account.altvr.com/channels/sdk)
 
-より多くのリソースが近日公開予定です。
+その他のリソースは近日公開予定です。
 
-## <a name="world-editor"></a>ワールドエディター
+## <a name="world-editor"></a>ワールド エディター
 
-Altspace Evr の内部では、自分のホームスペースで組み込みのワールドエディターを使用できます。 これは、スペースの変更を開始する最も簡単な方法です。 自宅のスペースにいるときは、[World Editor] ボタン (右下) を選択します。 「 [世界中の建物を使っ](../world-building/world-building-getting-started.md)てみる」ページをご覧ください。 ワールドエディターを使用すると、3d オブジェクト、テレポーターおよび拡張機能 (MREs) を配置し、ワールドスカイボックスを変更することができます。
+AltspaceVR 内では、組み込みのワールド エディターをホーム空間で使用できます。 これは、スペースの変更を開始する最も簡単な方法です。 ホームスペースを使用している場合は、右下にある [ワールド エディター] ボタンを選択します。 「ワールドビルディングはじめに[を使用する」ページを参照してください](../world-building/world-building-getting-started.md)。 ワールド エディターを使用すると、3D オブジェクト、テレポーターと拡張機能 (MRE) を配置し、ワールド Skybox を変更できます。
 
-[早期アクセスプログラム](../world-building/early-access.md)に参加している場合は、 [[マイワールド] ページ](https://account.altvr.com/users/sign_in)でより多くのワールドを作成できます。
+早期アクセス プログラム に[参加している場合は](../world-building/early-access.md)[、AltspaceVR の [My Worlds] ページでさらにワールドを作成できます](https://account.altvr.com/users/sign_in)。
 
-また、web サイト、ワールドエディター、Unity アップローダーなど、世界中に構築するプロセスについて説明し [ている Karnivore23 のすばらしいビデオ](https://www.youtube.com/watch?v=G8xgR3cDMjk&ab_channel=MarkGill) もあります。
+また、Web サイト、ワールド エディター、Unity アップデータツールなど、世界を構築するエンドツーエンドのプロセスをカバーする [、Karnivore23](https://www.youtube.com/watch?v=G8xgR3cDMjk&ab_channel=MarkGill) によるすばらしいビデオも紹介されています。
 
-## <a name="unity-uploader"></a>Unity アップローダー
+## <a name="unity-uploader"></a>Unity アップアップロード
 
-Unity とカスタムキットの両方に Unity アップローダーが用意されています。 この機能は開発の初期段階です。 詳細については、 [世界中のビルダーの Discord チャネル](https://discord.com/invite/Kp59Frb) をチャットに参加させるか、または [世界中のヘルプページ](../world-building/getting-help.md)を参照してください。
+世界とカスタム キットの両方に Unity アップデータツールを提供しています。 この機能は開発の初期段階です。 詳細については、World [Builders Discord](https://discord.com/invite/Kp59Frb) チャネルに参加してチャットを行うか [、World Building](../world-building/getting-help.md)のヘルプ ページで確認してください。
 
-Unity 2019.2 に更新する従来の Unity 2018 キットまたはテンプレートがある場合は、 [アップグレードガイド](https://developer.altvr.com/upgrade-2019-2/)を参照してください。
+Unity 2019.2 に更新するレガシ Unity 2018 キットまたはテンプレートがある場合は、アップグレード ガイド を [参照してください](https://developer.altvr.com/upgrade-2019-2/)。
 
 ## <a name="integrating-the-mre-sdk-into-your-own-app"></a>MRE SDK を独自のアプリに統合する
 
-「Unity3d で独自のアプリやゲームを作成し、アプリ内で MREs を実行する場合は、 [Mres Unity クライアントライブラリ](https://github.com/Microsoft/mixed-reality-extension-unity) リポジトリを参照してください。
+Unity3D で独自のアプリまたはゲームを作成し、アプリ内で MRE を実行する場合は [、MRE Unity クライアント](https://github.com/Microsoft/mixed-reality-extension-unity) ライブラリ リポジトリを参照してください。

@@ -4,12 +4,12 @@ description: FrontRow 機能を使用してユーザーを有効にし、トラ�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: スケーリング、前面の行
-ms.openlocfilehash: 30632564da2465b3cd54a7c080e73ad835a3a514
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 3b6a518a463fc373439f411d4ae75352a0343304b1fb73c8848d3bfd5fa19973
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213359"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128069"
 ---
 # <a name="scaling-your-audiences-with-frontrow-feature"></a>FrontRow 機能を使用して対象ユーザーを拡大/縮小する
 
@@ -56,7 +56,7 @@ FrontRow は、ホストエクスペリエンスに追加の機能を追加し�
 * 再 **配布**-現在ルームにあるすべてのゲストを他の部屋に再配布します。 (Crowding に適しています)。
 * **テレポート** -別の部屋にアクセスします。
 
-FrontRow イベントでは、ホストには、 **無線** などの他のツールや機能もいくつか表示されます。 [ **ホストツール**] の横にあるこのボタンを使用すると、ホストまたはモデレーターは、対象ユーザーのメンバーや他の参加者をミラー化して、すべてのスペースで表示できるようになります。 (ホストとして、自分でも **オン** にすることをお勧めします。 (Pro ヒント: [ホストゾーンを使用](https://altvr.com/holiday2020/) して、ゾーン内のすべてのユーザーに対して無線で自動的に有効にすることができます)。
+FrontRow イベントでは、ホストには、 **無線** などの他のツールや機能もいくつか表示されます。 [ **ホストツール**] の横にあるこのボタンを使用すると、ホストまたはモデレーターは、対象ユーザーのメンバーや他の参加者をミラー化して、すべてのスペースで表示できるようになります。 (ホストとして、自分でも **オン** にすることをお勧めします。 (Pro ヒント:[ホストゾーンを使用](https://altvr.com/holiday2020/)して、ゾーン内のすべてのユーザーに対して無線で自動的に有効にすることができます)。
 
 Frontrow [イベントのホストツールの概要](../tutorials/host-tools-for-events.md) に関する記事では、frontrow イベントのホストで使用できる各機能と関数について詳しく説明しています。
 

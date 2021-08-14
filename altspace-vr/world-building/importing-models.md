@@ -1,17 +1,17 @@
 ---
-title: GlTF モデルのインポート
+title: glTF モデルのインポート
 description: 3D glTF モデルを正常にインポートして、問題のトラブルシューティングを行う方法について説明します。
 ms.date: 03/11/2021
 ms.topic: article
 keywords: モデル, glTF, インポート, sketchfab, トラブルシューティング
-ms.openlocfilehash: 4489f90832bd1cf85ff161caed11684257cce6ab
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 527c38fc49028258fa432445fe14a355710a18be65ee74252a8c39bc1bfe5190
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213258"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127062"
 ---
-# <a name="importing-gltf-models"></a>GlTF モデルのインポート
+# <a name="importing-gltf-models"></a>glTF モデルのインポート
 
 > [!NOTE]
 > この機能は、現時点では、早期アクセスプログラムのユーザーが選択できるようになっています。
