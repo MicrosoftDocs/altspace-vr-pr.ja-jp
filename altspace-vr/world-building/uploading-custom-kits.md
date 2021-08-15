@@ -29,7 +29,7 @@ ms.locfileid: "119125528"
 3. 新しい Unity テンプレートを作成Project
 4. パッケージをダブルクリックして Unity Uploader をインポートする
 
-![インポートされた Unity アップアップロード パッケージ](images/custom-kits-img-01.png)
+![インポートされた Unity アップデータラー パッケージ](images/custom-kits-img-01.png)
 
 5. Altspace の電子メールとパスワードを使用して Uploader にサインインします
 
@@ -39,13 +39,13 @@ ms.locfileid: "119125528"
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-2/player]
 
-1. [**キット** フォルダー名] には、プレフィックスとしてキット ID とテーマ **(1137484494681408069_pirates** など) を入力し、キットの資産名にプレフィックスとして Kit ID を入力します。 すべての資産には、このプレフィックスが必要です。
+1. [キット フォルダー **名**] には、プレフィックスとしてキット ID とテーマ **(1137484494681408069_pirates** など) を入力し、キットの資産名にプレフィックスとして Kit ID を入力します。 すべての資産には、このプレフィックスが必要です。
 
 ![Kit フォルダー名を使用した Unity の AltspaceVR インターフェイス](images/custom-kits-img-03.png)
 
 2. アーティファクトまたは一連の成果物ごとにArtifacts。
 * ソースのプレハブを [階層] タブにドラッグします
-* セットに含めるもの (5 種類の鏡など) を選択します
+* セットに含めるもの (5 種類のけじなど) を選択します
 * Kit **Asset Name をに更新****する**
 * **[GameObject を Kit Prefab に変換する] を選択します**
 * Assets/Prefabs フォルダーに新しいプレハブとスクリーンショットが作成されたのを確認します

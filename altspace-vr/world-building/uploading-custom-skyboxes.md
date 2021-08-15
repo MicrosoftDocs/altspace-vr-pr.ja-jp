@@ -19,7 +19,7 @@ Skybox は、エクスペリエンスをよりイマーシブ **にする** ワ�
 
 Unity アップデータツールを [使用できますが、](world-building-toolkit-getting-started.md) この方法は簡単です。
 
-1. [Worlds > Skyboxes に移動し](https://account.altvr.com/skyboxes)、右側の **[作成**] ボタンを押します
+1. [Worlds > Skyboxes に移動し](https://account.altvr.com/skyboxes)、右側の **[作成**] ボタンを押します。
 
 ![Skyboxes パネルが開いている Worlds Web サイト ページ](images/custom-skyboxes-img-02.png)
 
