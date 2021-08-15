@@ -15,7 +15,7 @@ ms.locfileid: "119126321"
 
 AltspaceVR 開発者フォーラムへようこそ。 次のセクションでは、AltspaceVR にコンテンツを追加するさまざまな方法について説明します。
 
-## <a name="mixed-reality-extension-mre-sdk"></a>Mixed Reality 拡張機能 (MRE) SDK
+## <a name="mixed-reality-extension-mre-sdk"></a>Mixed Reality拡張機能 (MRE) SDK
 
 MRE SDK は、 を使用して AltspaceVR 拡張機能をビルドする新しい SDK Node.JS。 作業を開始するには:
 
@@ -25,10 +25,10 @@ MRE SDK は、 を使用して AltspaceVR 拡張機能をビルドする新し�
 
 次のこともできます。
 
-* [MRE SDK Discord Community参加](https://discord.com/invite/xyBcQec)して、他の MRE 開発者とチャットします。
+* [MRE SDK Discord Community](https://discord.com/invite/xyBcQec)参加して、他の MRE 開発者とチャットします。
 * [Building Tic-Tac-Toe のビデオを見る](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
 * アプリケーションを使用して MREs を編集[およびビルドする](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)方法Visual Studio Code
-* ソース コード [Hello World参照する](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world)
+* ソース [コードHello World参照する](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world)
 * [AltspaceVR で毎週の開発者向け会議に参加する](https://account.altvr.com/channels/sdk)
 
 その他のリソースは近日公開予定です。
