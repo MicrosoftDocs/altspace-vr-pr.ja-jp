@@ -4,12 +4,12 @@ description: Altworkplace Evr 環境の起動に関連する問題を特定、�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: fc49b5b7ed708e43a12616d782a397a364b2264e
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 50edddef669aca14640fd6e910c12c15864cf46a099e54bceed40494e9817de4
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213133"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127931"
 ---
 # <a name="i-cant-launch-altspacevr"></a>Altworkplace Evr を起動できません
 
@@ -18,11 +18,11 @@ ms.locfileid: "107213133"
 ## <a name="if-youre-trying-to-launch-altspacevr-for-the-first-time"></a>最初に Altを起動しようとしている場合は、次のようにします。
 
 1. デバイスがサポートされており、 [指定された最小要件](../getting-started/system-requirements.md)を満たしていることを確認します。
-2. 最新の [Oculus ソフトウェア](https://www.oculus.com/setup) がインストールされていることを確認し、その設定 > 全般 > 不明なデバイスがオンに設定されていることを確認します。 2D モードで起動する場合は、Oculus をインストールする必要はありません。
+2. 最新の[Oculus ソフトウェア](https://www.oculus.com/setup)がインストールされていること、設定 > 全般 > 不明なデバイスがオンに設定されていることを確認します。 2D モードで起動する場合は、Oculus をインストールする必要はありません。
 3. インターネット接続が動作していることを確認します。 ネットワークファイアウォール内から Altspace を起動しようとしている場合は、UDP ポート5055と5056、TCP ポート80および443を開きます。 企業または教育機関のファイアウォールのネットワーク内にいる場合は、ネットワーク管理者または IT 部門に問い合わせなければならないことがあります。
 4. 関連項目:
     * [Oculus クエスト用の Alt Evr のインストール](../getting-started/oculus-installation.md)
-    * [Windows Mixed Reality の Altのインストール](../getting-started/wmr-installation.md)
+    * [Windows Mixed Reality のための Altをインストールしています](../getting-started/wmr-installation.md)
 
 ## <a name="if-altspacevr-reports-that-the-current-version-is-out-of-date"></a>現在のバージョンが最新ではないことを Altを報告する場合は、次のようになります。
 

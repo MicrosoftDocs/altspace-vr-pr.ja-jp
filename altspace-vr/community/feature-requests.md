@@ -1,19 +1,19 @@
 ---
 title: 機能要求の送信
-description: 機能要求を Altworkplace Evr エンジニアリングチームに送信する方法について説明します。
+description: AltspaceVR エンジニアリング チームに機能要求を送信する方法について学習します。
 ms.date: 03/11/2021
 ms.topic: article
-keywords: 機能の要求
-ms.openlocfilehash: 411aa9e8301310f80c892a9b1cc3d9b760b34bef
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: 機能要求
+ms.openlocfilehash: a07adf6ec0a46e1329fcca67901e39630dafa7702f216c082debf0f3e52ca4f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213591"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125008"
 ---
 # <a name="submitting-feature-requests"></a>機能要求の送信
 
-すばらしい。 ご意見をお寄せいただき、ありがとうございます。皆様からのご意見をお待ちしております。
+すばらしいことです。 お手伝いしていただきありがとうございます。フィードバックをお待ちしております。
 
 > [!div class="nextstepaction"] 
-> [機能の要求をファイルに](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)
+> [機能要求を送信する](https://help.altvr.com/hc/en-us/requests/new?ticket_form_id=360001742213)

@@ -1,12 +1,12 @@
 ---
-ms.openlocfilehash: 87635656f90c6e6affb033fb19409b968101aba0
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 9e4ce07f8e549f9d648e7666971a1009ecaffc729b5f1ff9d5fd1148e520e05c
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213068"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126468"
 ---
-# <a name="altspacevr-application"></a>[Altて Evr アプリケーション](#tab/application)
+# <a name="altspacevr-application"></a>[AltspaceVR アプリケーション](#tab/application)
 
 * [AltspaceVR アプリのバージョンを検索しています](../faqs/app-version.md)
 * [クライアントログをアップロード操作方法には](../faqs/uploading-client-logs.md)
@@ -15,13 +15,13 @@ ms.locfileid: "107213068"
 # <a name="audio"></a>[オーディオ](#tab/audio)
 
 * [VR ヘッドセットには、mic が組み込まれていますか。](../faqs/vr-headset-mic.md)
-* [[プッシュツートーク] ボタンはありますか。](../faqs/push-to-talk.md)
-* [オーディオが途切れています](../faqs/choppy-audio.md)
-* [他のユーザーが聞くことはできません](../faqs/other-users-cant-hear-me.md)
+* [プッシュ ツー トーク ボタンはありますか?](../faqs/push-to-talk.md)
+* [音声が途切れます](../faqs/choppy-audio.md)
+* [私の声が他のユーザーに聞こえません](../faqs/other-users-cant-hear-me.md)
 
 # <a name="account--avatar"></a>[アカウント & アバター](#tab/account)
 
-* [Nametags のしくみ](../faqs/nametags.md)
+* [ネームタグはどのように機能しますか?](../faqs/nametags.md)
 * [個人情報を更新操作方法には](../faqs/updating-email-address.md)
 
 # <a name="contact-us"></a>[お問い合わせ](#tab/contact)

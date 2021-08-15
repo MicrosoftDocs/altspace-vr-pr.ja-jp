@@ -1,35 +1,35 @@
 ---
-title: Mixed Reality 拡張機能の使用
-description: Mixed Reality 拡張機能を使用してトラブルシューティングを行って、Altの範囲を拡張して適応させる方法について説明します。
+title: Mixed Reality拡張機能の使用
+description: 拡張機能を使用してトラブルシューティングを行Mixed Reality AltspaceVR の世界を拡張および適応する方法について説明します。
 ms.date: 03/11/2021
 ms.topic: article
-keywords: mixed reality、拡張機能、トラブルシューティング
-ms.openlocfilehash: 498e71c48f7c67abc40ce4f4667c9eeac4c4e73b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Mixed Reality, 拡張機能, トラブルシューティング
+ms.openlocfilehash: 1439ca76eaf4e0235c6552d037e55b6151e08407871bf470b3011b6cf8cbccd5
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212642"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125359"
 ---
-# <a name="using-a-mixed-reality-extension"></a>Mixed Reality 拡張機能の使用
+# <a name="using-a-mixed-reality-extension"></a>Mixed Reality拡張機能の使用
 
-[Mixed Reality 拡張機能](https://developer.altvr.com/) (mres) は、 [ヘルメット](https://account.altvr.com/mres/1173667287173955931) から実用的な [stargate](https://account.altvr.com/mres/1152987031857529562)まで、世界で使用できるアプリです。 これは、プログラミングエクスペリエンスを持つコミュニティメンバーが、Altspace および一方向のビルダーを拡張して、世界の対話性を高めることができるようにする方法です。 MREs は世界中のだれでも使用できますが、世界で MREs を参照して起動できるのは、世界中のプログラムのユーザーだけです。 
+[Mixed Reality拡張機能](https://developer.altvr.com/)(MREs) は、世界で使用できるアプリです。このアプリは[](https://account.altvr.com/mres/1173667287173955931)、実際に動作する[Stargate](https://account.altvr.com/mres/1152987031857529562)に対して、 プログラミングエクスペリエンスを持つコミュニティ メンバーは、Altspace を拡張し、一方通行の World Builder を使用してワールドをより対話的に行う方法です。 世界の誰でも MREs を使用できる一方で、ワールド ビルディング プログラムのユーザーだけが自分の世界で MREs を参照して生成できます。 
 
-1. [Web サイト](https://account.altvr.com/mres)の mre セクションを参照します。 既定では、独自の MREs が表示されるので、[ **Altspace** ] を選択して、コミュニティからの mres を確認するための正式な Mres と **おすすめ** を表示します。 お客様の世界で使用する前に、すべての MRE を使い始めることができます。 
-2. [ [ヘルメット](https://account.altvr.com/mres/1173667287173955931) mre] に移動し、[ **クリップボードにコピー**] を選択します。 
-3. 世界を入力し、World Editor を開いて **> SDK アプリ** を作成します。 [ターゲット URI] フィールドに [ヘルメット] の URL を貼り付け、[ **確認**] を選択します。 MRE オブジェクトが表示され、クラウドで実行されている MRE に接続しようとします。 これで、クリックできるヘルメットが表示されます。
-4. 他のワールドオブジェクトと同様に、MRE の移動/回転/拡大/縮小を行います。
+1. Web サイトの MRE セクションを [参照します](https://account.altvr.com/mres)。 既定では、独自の MREs が表示されます。 **そのため、Altspace** を選択して公式の MREs と **おすすめ** を表示し、コミュニティからの MREs を表示します。 世界中で使用する前に、MRE について理解してください。 
+2. [[Clipboards MRE] に移動](https://account.altvr.com/mres/1173667287173955931)し、[クリップボードに **コピー] を選択します**。 
+3. [ワールド] を入力し、[ワールド エディター] を開き **、[基本] > SDK アプリを開きます**。 [Target URI]/(ターゲット URI)フィールドに [下向き URL] を貼り付け、[確認] を **選択します**。 MRE オブジェクトが表示され、クラウドで実行されている MRE への接続が試行されます。 これで、クリックできるいくつかの保護機能が表示されます。
+4. 他のワールド オブジェクトと同様に、MRE を移動/回転/スケーリングします。
 
-おめでとうございます。 現在、MREs を使用しています。すばらしいですね。
+おめでとうございます。 これで MREs を使用しています。これで非常にクールです。
 
 ## <a name="troubleshooting"></a>トラブルシューティング
 
-**MRE は不機嫌な絵文字を表示しています** 
-    * URL が正しいことを確認してください
-    * オブジェクトの [**再生中**] オプションをオンにして、[**確認**] を選択します。
-    * 再入
+**MRE に、顔をしかめかしている絵文字が表示されている** 
+    * URL が正しいか確認する
+    * オブジェクトの **[再生中の** 切り替え] オプションを選択し、[確認] を **選択します**
+    * 再入力を試す
 
-**Mre は遅れている** MRE がホストされている場所によっては、ネットワーク待機時間が発生することがあります。
+**MRE が遅い** MRE がホストされている場所によっては、ネットワーク待機時間が発生する可能性があります
 
-**Url を貼り付ける必要があるのはなぜですか。**
-今後、キットの成果物と同様に、MREs を管理して起動することができます。 それまでは引き続き Url を使用します。
+**URL を貼り付ける必要がある理由**
+今後は、Kits から作成する場合と同様に、MREs をArtifacts生成できます。 それまでは、URL を引き続き使用します

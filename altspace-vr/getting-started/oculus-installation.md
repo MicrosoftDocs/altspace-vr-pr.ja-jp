@@ -1,17 +1,17 @@
 ---
-title: Oculus クエスト/Quest 2 のインストール
+title: Oculus Quest/Quest 2 のインストール
 description: モバイルアプリまたは Oculus ストアから Oculus クエストデバイスに Alt Evr をインストールする手順について説明します。
 ms.date: 03/11/2021
 ms.topic: article
 keywords: oculus, oculus クエスト, クエスト 2, トラブルシューティング, マイク, サポート
-ms.openlocfilehash: 355b6720711868a75c280922deae4db00c132661
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 712e5c0c4057e94f3464b723943d6b26534cf116d4f0d6fd8855016cb90d67be
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212983"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127764"
 ---
-# <a name="oculus-questquest-2-installation"></a>Oculus クエスト/Quest 2 のインストール
+# <a name="oculus-questquest-2-installation"></a>Oculus Quest/Quest 2 のインストール
 
 > [!IMPORTANT]
 > Oculus クエストを設定したことを確認してから、Alt Evr をインストールしてください。 **[「Oculus Support-Oculus Quest ヘッドセット操作方法のセットアップ」を参照してください。](https://support.oculus.com/855551644803876/#faq_525406631321134)** を参照してください。
@@ -62,6 +62,6 @@ Altworkplace Evr を使用するには、ユーザーが話す位置にマイク
 * サイドロードアプリを完全にアンインストールしてから、もう一度ストアから再インストールしてみてください。
 * 起動エラーが引き続き発生する場合は、サポートチケットを開いてください。
 
-## <a name="see-also"></a>こちらもご覧ください
+## <a name="see-also"></a>関連項目
 
 * [Oculus のサポート-Oculus ストアの使用](https://support.oculus.com/414963819268125/)

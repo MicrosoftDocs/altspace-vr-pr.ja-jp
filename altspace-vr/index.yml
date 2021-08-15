@@ -18,7 +18,7 @@ highlightedContent:
       url: journey.md
     - title: コンテンツとユーザーの検出
       itemType: overview
-      url: getting-started/system-requirements.md
+      url: community/exploring-title-screen.md
     - title: イベントの作成
       itemType: how-to-guide
       url: tutorials/creating-an-event.md
