@@ -98,7 +98,7 @@ ms.locfileid: "119127749"
 | モデレーター | World creator モデレーターロールと同じ |
 | 音楽の実行者 |Singers またはミュージシャン演奏装置の品質の高いオーディオ  |
 | パイロット | その個人のフライト機能を追加します。 注: 設定/実行でこれを有効にする必要があります |
-| Host | World creator ホストロールと同じ |
+| ホスト | World creator ホストロールと同じ |
 | Terraformer | [ワールドエディター] ボタンをインターフェイスに追加します。 | 
 
 ### <a name="adding-more-admins-to-your-world"></a>管理者を世界に追加する

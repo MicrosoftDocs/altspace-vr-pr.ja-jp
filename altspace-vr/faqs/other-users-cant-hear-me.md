@@ -19,11 +19,11 @@ ms.locfileid: "119128094"
  
 ## <a name="oculus-quest"></a>Oculus Quest 
 
-AltspaceVR をインストールするときに、マイク オーディオを使用するためのアクセス許可を付与してください。 実行できるもう 1 つのチェックは、メニュー/設定/オーディオ/オーディオ入力の選択を調べたり、Android オーディオ入力 (Quest/Quest2 の既定のマイク) に設定されているのを確認する方法です。
+AltspaceVR をインストールするときに、マイク オーディオを使用するためのアクセス許可を付与してください。 実行できるもう 1 つのチェックは、Menu / 設定 / Audio / Audio Input Selection を調べたり、Android オーディオ入力 (Quest/Quest2 の既定のマイク) に設定されているのを確認する方法です。
  
 ## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a>Windows Mixed Reality、Oculus Rift、HT Vive、または 2D モード
 
-AltspaceVR: Menu / 設定 / Audio Input Selection のマイク設定が正しく設定されていることを確認します。 次に、矢印ボタンを使用して、使用するマイクを選択します。
+AltspaceVR: Menu / 設定 / Audio / Audio Input Selection で適切なマイク設定が設定されていることを確認します。 次に、矢印ボタンを使用して、使用するマイクを選択します。
 
 AltspaceVR を開始する前に、適切なマイクが既定の録音デバイスとして設定Windows。 Oculus Rift と ALT Vive の両方にマイクが組み込まれているので、AltspaceVR に別のマイクが接続されている場合は、そのデバイスを使用しようとしている可能性があります。
  

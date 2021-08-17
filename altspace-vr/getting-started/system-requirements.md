@@ -28,7 +28,7 @@ ms.locfileid: "119127557"
 * 互換性のあるビデオ出力 (1.3 のビデオ出力) 
 * Windows 8以降 
 
-## <a name="htc-vive-windows-only"></a>[LG Vive(Windowsのみ)
+## <a name="htc-vive-windows-only"></a>[WINDOWS Vive]
 
 * NVIDIA GeForce® GTX 970、AMD Radeon™ R9 290 以上
 * Intel® i5-4590、AMD FX 8350 同等以上   

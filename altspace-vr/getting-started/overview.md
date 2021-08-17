@@ -23,11 +23,11 @@ MRE SDK は、 を使用して AltspaceVR 拡張機能をビルドする新し�
 2. [Git コマンド ライン ツールをインストールする](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 3. [MRE SDK サンプル リポジトリ](https://github.com/Microsoft/mixed-reality-extension-sdk-samples)に移動し、詳細な手順に従ってサンプルをビルドして実行します
 
-次のこともできます。
+さらに、次のことができます。
 
 * [MRE SDK Discord Community](https://discord.com/invite/xyBcQec)参加して、他の MRE 開発者とチャットします。
 * [Building Tic-Tac-Toe のビデオを見る](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
-* アプリケーションを使用して MREs を編集[およびビルドする](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)方法Visual Studio Code
+* アプリケーションを使用して MREs を編集およびビルドする[方法Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)
 * ソース [コードHello World参照する](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world)
 * [AltspaceVR で毎週の開発者向け会議に参加する](https://account.altvr.com/channels/sdk)
 
@@ -35,7 +35,7 @@ MRE SDK は、 を使用して AltspaceVR 拡張機能をビルドする新し�
 
 ## <a name="world-editor"></a>ワールド エディター
 
-AltspaceVR 内では、組み込みのワールド エディターをホーム空間で使用できます。 これは、スペースの変更を開始する最も簡単な方法です。 ホームスペースを使用している場合は、右下にある [ワールド エディター] ボタンを選択します。 「ワールドビルディングはじめに[を使用する」ページを参照してください](../world-building/world-building-getting-started.md)。 ワールド エディターを使用すると、3D オブジェクト、テレポーターと拡張機能 (MRE) を配置し、ワールド Skybox を変更できます。
+AltspaceVR 内では、組み込みのワールド エディターをホーム空間で使用できます。 これは、スペースの変更を開始する最も簡単な方法です。 ホームスペースを使用している場合は、右下にある [ワールド エディター] ボタンを選択します。 「ワールド ビルディング[をはじめにする」ページを参照してください](../world-building/world-building-getting-started.md)。 ワールド エディターを使用すると、3D オブジェクト、テレポーターと拡張機能 (MRE) を配置し、ワールド Skybox を変更できます。
 
 早期アクセス プログラム に[参加している場合は](../world-building/early-access.md)[、AltspaceVR の [My Worlds] ページでさらにワールドを作成できます](https://account.altvr.com/users/sign_in)。
 

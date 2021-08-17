@@ -25,11 +25,11 @@ AltspaceVR を初めて起動する場合は、ゲスト ユーザーとして�
 
 ![メイン メニューの [アカウントのサインアップ] ポップアップ](images/title-screen-03.png)
 
-AltspaceVR アカウントが Microsoft アカウントにリンクされている場合は、[Sign-in with Microsoft]/(Microsoft アカウントで **サインインする)オプションを選択** します。 Microsoft にリンクされたアカウントをお持ちない場合は **、[AltspaceVR** でサインイン] オプションを選択します。 詳細なアカウント リンク手順については、Microsoft アカウントのリンクに [関するページを参照してください](../getting-started/linking-microsoft-account.md)。 
+AltspaceVR アカウントが Microsoft アカウントにリンクされている場合は **、[Sign-in with Microsoft]/(Microsoft アカウントでサインインする)オプションを選択** します。 Microsoft にリンクされたアカウントをお持ちない場合は **、[AltspaceVR** でサインイン] オプションを選択します。 詳細なアカウント リンク手順については、Microsoft アカウントのリンクに [関するページを参照してください](../getting-started/linking-microsoft-account.md)。 
 
 ![Microsoft アカウントをリンクするサインイン ページ](images/title-screen-02.png)
 
-## <a name="destinations"></a>変換先 
+## <a name="destinations"></a>移行先 
 
 左側の **緑色** の [宛先] ボタンには、AltspaceVR Hubs、ホームスペース、今後のスポットライト イベント、最近参加したイベントが表示されます。 また、友人が現在参加している可能性のあるイベントも表示されます。 [ **宛先]** パネルを使用すると、重要な場所にすばやく簡単に移動できます。 
 
@@ -37,7 +37,7 @@ AltspaceVR アカウントが Microsoft アカウントにリンクされてい�
 
 ## <a name="entry-code"></a>エントリ コード 
 
-AltspaceVR エントリ コードは、合理化されたイベント エントリを可能にする英数字コードです。 VR のイベント ページの [共有] **ボタンを** 使用して、エントリ コードを見つける。 また、 のイベント ページでソーシャル共有アイコンの上[altvr.com。](https://altvr.com) 
+AltspaceVR エントリ コードは、合理化されたイベント エントリを可能にする英数字コードです。 VR のイベント ページの [共有] **ボタン** を使用して、エントリ コードを見つける。 また、 のイベント ページでソーシャル共有アイコンの上 [に](https://altvr.com)altvr.com。 
 
 ![エントリ コードと共有オプションを含むイベント ページ](images/title-screen-05.png)
 

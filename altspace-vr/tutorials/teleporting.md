@@ -43,7 +43,7 @@ ms.locfileid: "119126189"
 
 ## <a name="advanced-features"></a>高度な機能
 
-カスタムワールド (たとえば、Foundation World、Unity アップデータースペース テンプレート、Re-Import World) で Front Row を使用して会議、会議、または大規模なイベントを作成する場合は、実際のイベントではなく、Foundation World で Teleporter を設定する必要があります。 Foundation World の適切なイベント (最近の一覧からである必要があります) に移動する Teleporter を設定していることを確認し、次にイベントの Re-Import World を設定して、Teleporters をすべての Front Row イベント スペースに表示します。
+カスタムワールド (たとえば、Foundation World、Unity Uploader Space Template、Re-Import World) で Front Row を使用して会議、会議、または大規模なイベントを作成する場合は、実際のイベントではなく、Foundation World で Teleporter を設定する必要があります。 Foundation World の適切なイベント (最近の一覧からである必要があります) に移動する Teleporter を設定していることを確認し、イベントの Re-Import World を設定して、Teleporters をすべての Front Row イベント スペースに表示します。
 
 ## <a name="faqs"></a>FAQ
 
@@ -53,4 +53,4 @@ ms.locfileid: "119126189"
 
 **1 つのスペースで使用できるテレポーターの数はどれくらいですか?**
 
-Teleporters はアニメーション化されたパーティクル効果を持つ透明テクスチャを使用しています。そのため、パフォーマンスに影響を与える可能性がある同じスポットまたは重複に含まれるものすべてが多すぎずに使用するのが最善です。 同じ領域に 4 を超え、すべてスペースに広がっている場合は 10 以上にしてください。
+Teleporters はアニメーション化されたパーティクル効果を持つ透明テクスチャを使用しています。そのため、パフォーマンスに影響を与える可能性がある同じスポットまたは重複のすべてが多すぎることをおおさえるのが最善です。 同じ領域に 4 を超え、すべてスペースに広がっている場合は 10 以上にしてください。

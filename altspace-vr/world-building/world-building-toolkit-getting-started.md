@@ -1,9 +1,9 @@
 ---
-title: World Building Toolkit のToolkit
-description: World Building Toolkit で Unity シーン テンプレートを使用して AltspaceVR ワールドをセットアップしてアップロードする方法について説明します。
+title: 世界ビルの Toolkit を紹介する
+description: Unity シーンテンプレートを使用して、世界ビルの Toolkit で、Altを設定してアップロードする方法について説明します。
 ms.date: 03/11/2021
 ms.topic: article
-keywords: ツールキット
+keywords: toolkit
 ms.openlocfilehash: 8b66e35509060e00b2e52d3770380d009d7060339003f534d23fdd47372a57f0
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -11,88 +11,88 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119125408"
 ---
-# <a name="introducing-the-world-building-toolkit"></a>World Building Toolkit のToolkit
+# <a name="introducing-the-world-building-toolkit"></a>世界ビルの Toolkit を紹介する
 
 > [!NOTE]
-> World Building Toolkitは、すばらしい友人である[Anthony Madden](https://twitter.com/chigamesstudio)が運営するコミュニティ プロジェクトで、私たちのサポートを受け取っています。 興味がある場合は、公式 [の AltspaceVR Discord](https://discordapp.com/invite/altspacevr) に参加し、新しい#worldにアクセスしてください。 現在、Mac 試用版ベータ版があります [。詳細](https://altvr.com/altspacevr-mac)
+> 世界ビルの Toolkit は、当社のすばらしい友人である[Anthony madden](https://twitter.com/chigamesstudio)によって実行されるコミュニティプロジェクトです。 興味をお持ちの場合は、 [公式の Altspacevr Discord](https://discordapp.com/invite/altspacevr) に参加し、#world ビルディングチャネルにアクセスしてください。 現在、Mac 試用版ベータ版があります。詳細については、こちらを[参照](https://altvr.com/altspacevr-mac)してください。
 
-Uploader を使用すると、Unity シーンをワールドのテンプレートとして使用できます。 お気に入りの作成は、Minecraft から、お気に入りの家を持ち込むか、Minecraft。 Unity にインポートできる場合は、この方法で Altspace に取り込む可能性があります。 Worlds の例 [を次に示します](https://account.altvr.com/worlds/1046572460192825569)。
+アップローダーでは、Unity シーンを世界のテンプレートとして使用することができます。 Minecraft から、満塁の家にハロウィーンやお気に入りの作成を持ち込むことができます。 Unity にインポートできる場合は、この方法で Altspace にアクセスできる可能性があります。 いくつかの [例](https://account.altvr.com/worlds/1046572460192825569)を次に示します。
 
 ![ワールドの例](images/unity-uploader-img-01.png)
 
 ## <a name="setup"></a>セットアップ
 
-1. 公式の [AltspaceVR Discord](https://discordapp.com/invite/altspacevr) に参加し、#world作成チャネルにアクセスします。友人はワールドを単独で構築できません。
-2. 基本については [、World-Building はじめに ガイド](world-building-getting-started.md) を参照してください
-3. [Unity Hub をインストール](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) し **、Unity 2020.3.9 をインストールします**。 このバージョンと正確に一致しない限り、アップアップロード機能は機能しません。 無料の Unity アカウントを持ってない場合は、無料のUnity アカウントが必要です。これを楽しく行うので、[個人用] を選択します。 インストール中に、必ず [Android ビルド] **オプションをオンに** し、自動更新を無効にします。
-4. [最新の Unity Uploader をダウンロードする](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
-5. [Web サイトでテンプレート](https://account.altvr.com/space_templates/new) を作成します。 テンプレート にHello World **します**。
-6. [World を作成し](https://account.altvr.com/worlds/my)、 という名前を付 **Hello World。** [ **テンプレートHello Worldテンプレート]** を選択します。
+1. 公式の [Altspacevr Discord](https://discordapp.com/invite/altspacevr) に参加して、#world ビルのチャネルにアクセスしてください。友人は、友人が自分だけをビルドすることはできません。
+2. 基本については、 [世界ビルのはじめにガイド](world-building-getting-started.md) を参照してください。
+3. [Unity Hub をインストール](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) し、 **unity 2020.3.9** をインストールします。 このバージョンと正確に一致しない限り、アップローダーは機能しません。 お持ちでない場合は、無料の Unity アカウントが必要です 。このアカウントをお持ちでない場合は、無料でお試しください。 インストール中に、[ **Android のビルド** ] オプションをオンにして、自動更新を無効にしてください。
+4. [最新の Unity アップローダーをダウンロードする](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
+5. Web サイトに[テンプレートを作成](https://account.altvr.com/space_templates/new)します。 **Hello World テンプレート** に名前を指定します。
+6. **Hello World** という名前を [作成](https://account.altvr.com/worlds/my)します。 テンプレートとして [ **Hello World テンプレート** ] を選択します。
 
 ![作成されたワールド画面](images/unity-uploader-img-02.png)
 
-## <a name="upload-your-scene"></a>アップロードを作成する
+## <a name="upload-your-scene"></a>シーンのアップロード
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-a-Template/player]
 
 1. Unity Hub を開き、新しい Unity 2020.3.9 プロジェクトを作成します。
-2. プロジェクトを開いた後、ダウンロードしたファイルをダブルクリックして Uploader をインポートします (これは Unity パッケージです)。 これで **、AltspaceVR** という名前の新しいタブが表示されます。 Altspace で使用する Unity プロジェクトごとにパッケージをインポートする必要があります
-3. **AltspaceVR >メニューを開>ビルド設定**
-4. Altspace アカウントの資格情報を使用してサインインする
-5. [テンプレート **の読み込み** ] を選択し、[テンプレート **Hello World選択します**
-6. キューブをシーンに追加して保存します。
-7. [Build **for Windows?] をオンにし、[Build** **for Android?] をオフにします。**
-8. **[アップロード]** を選択します。 約 1 分で、**完了したアップロード** されます。
-9. Altspace **Hello World** を起動し、Menu > Worlds > **My Worlds から入力して参加します**
-10. [メニューからワールドをリセット **する] > 設定 >中程度の>領域**
-11. キューブが表示されます。 上記のビデオのように高速に実行すると、10 秒以内に変更を確認できます。
+2. プロジェクトを開いた状態で、ダウンロードしたファイル (Unity パッケージ) をダブルクリックしてアップローダーをインポートします。 これで、 **altと** いう新しいタブが表示されます。 Altspace で使用するすべての Unity プロジェクトのパッケージをインポートする必要があります。
+3. **メニュー > alt> Build 設定** を開く
+4. Altspace アカウントの資格情報でサインインします
+5. [**テンプレートの読み込み**] を選択し、[ **Hello World テンプレート**] を選択します。
+6. シーンにキューブを追加して保存します。
+7. **Windows のビルド** を確認し、 **Android 用のビルドをオフにしますか**?
+8. **[アップロード]** を選択します。 約1分で **アップロード** 完了したことがわかります。
+9. Altspace を起動して **メニュー > ワールド >** を入力して **Hello World** 参加する
+10. **メニュー > 設定 > 中 > 程度の間隔で領域** をリセットします。
+11. キューブが表示されます。 上記のビデオのようにすばやく実行すると、10秒ほどではなく変更を確認できます。
 
 ## <a name="whats-supported"></a>サポートされる操作
 
-* はい: モデル、衝突、アニメーション、パーティクル効果、オーディオ、Skybox など
+* はい: モデル、競合、アニメーション、パーティクル効果、オーディオ、skyboxes など
 * いいえ: スクリプト。 セキュリティ上の理由から、スクリプトを含むアップロードは拒否されます
-* おそらく:動的なグローバル 照明のような空想的なもの
-* アップロード異なるプラットフォームのシーンを個別または一緒に作成する
-* 「 [おすすめの世界」を参照してください](https://account.altvr.com/worlds/featured)。多くはアップアップロードツールを使用して構築されました
+* 場合によっては、動的なグローバル照明のような凝った
+* 異なるプラットフォームのシーンを個別または組み合わせてアップロード
+* アップローダーを使用して構築された、 [おすすめの世界](https://account.altvr.com/worlds/featured)をご覧ください
 
 ## <a name="tips"></a>ヒント
 
-* 公式の [AltspaceVR Discord に参加します](https://discordapp.com/invite/altspacevr)。
-* 左側の [テンプレート] ページに、プラットフォーム別の最新のアップロードが表示されます。 成功した場合は **、1 ~ 2 分前に が表示されます**。Screen_Shot_2019-01-11 _at_1.21.04_AM.png
+* 公式の [Altspacevr Discord](https://discordapp.com/invite/altspacevr)に参加します。
+* 左側の [テンプレート] ページに、プラットフォーム別の最新のアップロードが表示されます。 成功した場合は、 **1-2 分前** に表示されます。Screen_Shot_2019-01-11 _at_1.21.04_AM.png
 
-![アップロードが強調表示された [テンプレート] パネルが開きます](images/unity-uploader-img-03.png)
+![アップロードが強調表示された状態で開く [テンプレート] パネル](images/unity-uploader-img-03.png)
 
-* 更新時にワールド内に表示できます。 Uploader が [完了]**アップロードした瞬間に**、ワールドをリセットして変更を確認できます。
-* 単純なシーンを使用した PC 専用の構築では、Altspace の変更を表示するには 1 分未満かかる必要があります
-* 気を散らさないように、ワールドをプライベートおよび一覧に含めないように設定します。
-* ユーザーが既定で生成される場所を確認できるよう、キューブを原点に配置します。 アップロード時にキューブを非表示にする。
+* を更新するときに、その中でも使用できます。 アップローダーが **完了アップロード** と表示されたら、世界をリセットして変更を確認することができます。
+* 簡単なシーンを使用した PC 用のビルドでは、Altspace の変化を確認するために1分未満でなければなりません。
+* 取られるを避けるために、世界をプライベートに設定し、一覧から削除します。
+* 既定でユーザーが生成する場所を確認できるように、キューブを配信元に配置します。 アップロード時にキューブを非表示にします。
 
 ## <a name="troubleshooting"></a>トラブルシューティング
 
-**私が落ちているか、何にもテレポートできない** オブジェクトに競合を追加して、そのオブジェクトにテレポートする必要があります。
+**何かを挿入することはできません。** オブジェクトへの競合を追加して、それらにテレポートする必要があります。
 
 **何も変更されません**
-    * Unity でシーンを保存しましたか?
-    * テストするプラットフォームを選択しましたか?
-    * あなたは正しい世界にいますか? Uploader AND in the World フォームで適切なテンプレートを選択しましたか?
-    * テンプレート ページの統計を確認しましたか?
+    * Unity にシーンを保存しましたか?
+    * テスト対象のプラットフォームを選択しましたか?
+    * お持ちの方は、 アップローダーと World 形式で適切なテンプレートを選択しましたか?
+    * テンプレートページの統計情報を確認しましたか?
 
-**アップロード失敗またはアウト**
-    * 最も一般的なアップロード エラーは、間違った Unity バージョンを持つことです。 必要なバージョンと正確に一致する必要があります。
-    * アップロードが大きすぎる可能性があります。 PC シーンを 100 MB <してください。 小規模から始め、ビルドアップします。 最適化、最適化、最適化。
-    * 単純なキューブで新しいプロジェクトを試してみてください。
-    * ビルド中に強制的に終了しない -- シーンが破損する可能性があります。 再アップロードを試してください。
+**アップロードの失敗またはタイムアウト**
+    * 最も一般的なアップロードエラーの Unity バージョンが間違っています。 必要なバージョンと正確に一致している必要があります。
+    * アップロードが大きすぎる可能性があります。 PC のシーン < 100 MB に保つようにしてください。 小規模に開始し、構築します。 Optimize、optimize、optimize。
+    * 単純なキューブを使用して、新しいプロジェクトを試してください。
+    * ビルド中に強制的に終了しないでください。シーンを破損させることができます。 再アップロードをお試しください。
 
-**プロセスが遅い**
-    * 反復中にのみ PC 用を構築し、後で Android 用に構築することをお勧めします。
-    * 使用されていないファイルを削除してみてください。 何らかの理由で、Unity が過剰な場合があります。
+**処理速度が遅い**
+    * 後で Android を反復処理する場合にのみ、PC 用にビルドすることをお勧めします。
+    * 未使用のファイルを削除してみてください。 何らかの理由により、Unity は熱心になることがあります。
 
-**Altspace 資格情報でサインインできない**
+**Altspace 資格情報でサインインできません**
     * 電子メールでは大文字と小文字が区別されます。
-    * 新しいプロジェクトを試してください。
-    * Altspace アカウントが良好な位置にある必要があります。
+    * 新しいプロジェクトを試してみてください。
+    * Altspace アカウントが良好な場所にあることを確認します。
 
 ## <a name="see-also"></a>関連項目
 
-* [Unity Learn](https://unity3d.com/learn)
+* [Unity の学習](https://unity3d.com/learn)
 * [Unity フォーラム](https://forum.unity.com)

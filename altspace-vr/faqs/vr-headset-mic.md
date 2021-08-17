@@ -1,6 +1,6 @@
 ---
-title: VR ヘッドセットにはマイクが組み込みですか?
-description: Windows Mixed Reality、Oculus Rift、Oculus Quest、または QUEST Vive ヘッドセットの組み込みマイクを確認する方法について学習します。
+title: VR ヘッドセットには、mic が組み込まれていますか。
+description: Windows Mixed Reality、Oculus Rift、Oculus クエスト、または HTC naopak ヘッドセットのマイクが内蔵されているかどうかを確認する方法について説明します。
 ms.date: 03/11/2021
 ms.topic: article
 keywords: vr、windows
@@ -11,17 +11,17 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119121172"
 ---
-# <a name="does-my-vr-headsets-have-a-built-in-mic"></a>VR ヘッドセットにはマイクが組み込みですか?
+# <a name="does-my-vr-headsets-have-a-built-in-mic"></a>VR ヘッドセットには、mic が組み込まれていますか。
 
-## <a name="oculus-rift-oculus-quest-and-htc-vive-users"></a>Oculus Rift、Oculus Quest、および QUEST Vive Users
+## <a name="oculus-rift-oculus-quest-and-htc-vive-users"></a>Oculus Rift、Oculus クエスト、および HTC Naopak Users
 
-はい。これらの VR ヘッドセットにはマイクが組み込みされています。
+はい、これらの VR ヘッドセットにはマイクが組み込まれています。
 
 ## <a name="windows"></a>Windows
 
-Windows で使用されるヘッドセットの場合は、ヘッドセットを接続している間に、[記録デバイス] の下に一覧表示されているマイクを見つけられます。
+Windows で使用するヘッドセットでは、ヘッドセットが接続されている状態で、**録音デバイス** の下に一覧表示されているマイクを見つけることができます。
 
 ## <a name="further-troubleshooting"></a>その他のトラブルシューティング
 
-* [AltspaceVR のサポート - 他のユーザーに聞こえない](other-users-cant-hear-me.md)
-* [AltspaceVR のサポート - Oculus Quest のアクセス許可の管理](../getting-started/oculus-controls.md#managing-permissions)
+* [Altworkplace Evr のサポート-他のユーザーにはお聞きください](other-users-cant-hear-me.md)
+* [AltOculus Evr のサポート-クエストのアクセス許可の管理](../getting-started/oculus-controls.md#managing-permissions)

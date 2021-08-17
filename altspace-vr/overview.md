@@ -1,11 +1,11 @@
 ---
-title: AltspaceVR の概要
-description: AltspaceVR の機能と主な機能の一部
+title: Altworkplace Evr の概要
+description: Altとは何か、主な機能
 author: qianw211
 ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
-keywords: AltspaceVR, 仮想 meetup, 仮想現実の meetup, VR meetup, 仮想現実プラットフォーム, VR プラットフォーム, イマーシブ仮想イベント, イマーシブ VR イベント, 仮想現実イベント, VR イベント, VR ワールドビルディング, イマーシブ VR エクスペリエンス, ソーシャル VR, ソーシャル VR プラットフォーム, VR イベント ホスティング, ソーシャル仮想現実, 仮想現実イベントホスティング
+keywords: Altて Evr、virtual meetup、virtual reality meetup、VR meetup、virtual reality プラットフォーム、VR プラットフォーム、イマーシブ仮想イベント、イマーシブ VR イベント、virtual reality イベント、VR イベント、VR 世界ビル、イマーシブ VR エクスペリエンス、ソーシャル VR、ソーシャル VR プラットフォーム、VR イベントホスティング、ソーシャル仮想現実、virtual reality イベントホスト
 ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -13,42 +13,42 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119131836"
 ---
-# <a name="what-is-altspacevr"></a>AltspaceVR とは
+# <a name="what-is-altspacevr"></a>Altとは
 
-![AltspaceVR バナー画像](images/vr-interactions.png)
+![Altスペース Evr バナーの画像](images/vr-interactions.png)
 
-AltspaceVR は、ライブ Mixed Reality エクスペリエンスの主要プラットフォームです。 AltspaceVR を使用すると、音楽家、作成者、ブランド、企業が独自の仮想イベントを簡単に作成できます。 このソーシャル アプリを使用すると、世界中の人々が、真のプレゼンス感でリアルタイムで接続して共同作業を行えるのです。 表現力のあるアバター、魅力的な目の接触、空間サウンド、イマーシブ仮想環境を使用すると、海が離れている場合でも、人は一緒にいるような気がします。 AltspaceVR は、経験、コンテンツ、コミュニティの交差部分に位置し、ライブ ライブ、カンファレンス、おめでといショー、音楽会、技術講演、チームミーティング、リモート コラボレーションなどのための最高の場所です。  
+Altworkplace Evr は、ライブ mixed reality エクスペリエンスのための主要なプラットフォームです。 Altworkplace Evr を使用すると、アーティスト、作成者、ブランド、および企業は、独自の仮想イベントを簡単に作成できます。 このソーシャルアプリを使用すると、世界中のすべてのメンバーがリアルタイムで接続し、共同作業を行うことができます。 見た目のよい連絡先、空間サウンド、およびイマーシブ仮想環境では、海洋しているときでも同じように見えます。 コメディは、エクスペリエンス、コンテンツ、コミュニティの共通点に直面しています。これは、live コンサート、カンファレンス、ショー、festivals、テクニカルトーク、チームミーティング、リモートコラボレーションなどのための主要な場所です。  
 
-現在、AltspaceVR を使用すると、大規模な個人グループを 1 つの空間に格納できます。  [FrontRow テクノロジ](faqs/scaling-audiences.md) を使用すると、対象ユーザーを数千単位にスケーリングできます。
+現在、Altspace Evr では、大規模な個人グループを1つのスペースに共存させることができます。  [Frontrow](faqs/scaling-audiences.md) テクノロジを使用すると、数千単位で対象ユーザーを拡大縮小できます。
 
-## <a name="virtual-reality-events"></a>仮想現実イベント
+## <a name="virtual-reality-events"></a>Virtual reality イベント
 
-AltspaceVR を使用すると、個人またはプロの生活の中で、VR エクスペリエンスを共有できます。 他のユーザー[がスケジュールしたパブリック イベント](community/exploring-title-screen.md#destinations)に参加[](tutorials/creating-an-event.md)するか、オンライン仮想コミュニティ全体に公開されている独自のプライベート イベントまたはパブリック イベントをホストできます。
+Altて Evr を使用すると、お客様が個人または専門家にいるかどうかにかかわらず、独自の VR エクスペリエンスを共有できます。 他のユーザーによってスケジュールされている [パブリックイベントに参加](community/exploring-title-screen.md#destinations) することも、オンライン仮想コミュニティ全体に開いて [いるプライベートまたはパブリックのイベントをホスト](tutorials/creating-an-event.md) することもできます。
 
-Vr エクスペリエンスのために AltspaceVR が提供する必要がある機能を次に示します。
+ここでは、どのような場合に、どのようにして VR エクスペリエンスを提供する必要があります。
 
-### <a name="public-events-calendar"></a>パブリック イベントカレンダー
+### <a name="public-events-calendar"></a>パブリックイベントのカレンダー
 
-AltspaceVR は、任意の時点 [でカレンダー上の](https://account.altvr.com/events/main) イベントのスコアを提供します。 これらのイベントの範囲は、科学サービスやグループ の活動など、学術的なセッション、一般的な科学、クリエイティブな書き込み、ビジネス ネットワークなどの学習イベントまでです。 楽楽では、スタンドアロンのコメディ イベント、幸せな時間のセッション、ライブ 音楽、映画など、すべて VR で行います。
+Altworkplace Evr は、任意の時点で [そのカレンダーにイベント](https://account.altvr.com/events/main) のスコアを提供します。 これらのイベントは、spiritual ミートアップ (教会のサービスやグループの meditation など) から、暗号通貨、一般的なサイエンス、クリエイティブ書き込み、ビジネスネットワークなどのセッションなどのイベントを学習できます。 エンターテインメントでは、コメディイベント、すばらしい時間のセッション、ライブミュージック、カラオケなどがすべて VR で存在します。
 
 ### <a name="vr-worlds"></a>VR ワールド
 
-AltspaceVR では、worlds と呼ばれる多くの事前構築済み VR 環境に [アクセスできます](community/exploring-title-screen.md#other-functions)。 これらの世界では、通りや施設などの一般的な公共エリアや、くちびきを持つ花びらや美しいライブラリなどのより魅力的な場所がカバーされています。 AltspaceVR のイベント ホストは、イベントを計画するときに、これらの世界から選択できます。
+Altworkplace Evr では、 [ワールド](community/exploring-title-screen.md#other-functions)と呼ばれる多数の事前構築済みの VR 環境にアクセスできます。 これらのワールドは、道路や rooftops などの一般的なパブリックエリアや、enchanted meadow や mythical ライブラリなどの fantastical の場所をカバーしています。 イベントを計画するときに、Altworkplace Evr 上のイベントホストはこれらのワールドから選択できます。
 
-### <a name="content-channels"></a>コンテンツ チャネル
+### <a name="content-channels"></a>コンテンツチャネル
 
-AltspaceVR には、関心 [領域に合](https://account.altvr.com/channels/popular) わせてさまざまなコンテンツ チャネルが用意されています。 コンテンツ のトピックは、人間性、多様性、インクルージョン&、立ち上がったコニー、音楽の映画など、多様です。  チャネルに新しいイベントが追加された場合、通知が表示され、イベントの開始時刻の 1 時間前に電子メール リマインダーが送信されます。
+Alt市外 Evr は、関心のある分野に合わせてさまざまな [コンテンツチャネル](https://account.altvr.com/channels/popular) を提供します。 コンテンツのトピックはさまざまです。たとえば、humanism、多様性 & 包含、spirituality、コメディ、music festivals などです。  チャネルに新しいイベントが追加されると通知されます。電子メールリマインダーは、イベントの開始時刻の1時間前に送信されます。
 
-## <a name="microsoft-mesh-compatibility"></a>Microsoft Mesh の互換性
+## <a name="microsoft-mesh-compatibility"></a>Microsoft メッシュの互換性
 
-AltspaceVR for Business は [Microsoft Mesh 対応になります](/mesh/)。 間もなく、3D フォト現実的なプレゼンスと空間的なマルチプレーヤー エクスペリエンスを楽しめになります。 AltspaceVR は、コラボレーション、企業イベント、従業員エンゲージメントの集まりのためのビジネス VR プラットフォームに変わる予定です。
+ビジネス向け Altworkplace Evr は [、Microsoft メッシュが有効](/mesh/)になります。 間もなく、3D のフォトリアリスティックのプレゼンスと空間マルチプレイヤーエクスペリエンスを利用できるようになります。 Alt集会 Evr は、コラボレーション、企業イベント、および従業員のエンゲージメントのためにビジネス VR プラットフォームに変わります。
 
 ## <a name="see-also"></a>関連項目
 
-世界に持ち込む仮想イベントはありますか? ここで体験を開始します。
+仮想イベントを使用して世界に持ち込むことはできますか。 ここから体験を始めましょう。
 > [!div class="nextstepaction"]
 > [AltspaceVR の探索](journey.md)
 
-VR エクスペリエンスのハードウェア要件に関するページを参照してください。
+「VR エクスペリエンスのハードウェア要件」を参照してください。
 > [!div class="nextstepaction"]
 > [システム要件](getting-started/system-requirements.md)
