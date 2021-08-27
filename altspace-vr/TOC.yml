@@ -1,5 +1,7 @@
 - name: AltspaceVR へようこそ
   href: index.yml
+- name: AltspaceVR の概要
+  href: overview.md
 - name: AltspaceVR の探索
   href: journey.md
 - name: 作業の開始

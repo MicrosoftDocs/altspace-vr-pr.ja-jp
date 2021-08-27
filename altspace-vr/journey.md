@@ -1,21 +1,23 @@
 ---
 title: AltspaceVR の探索
 description: Curated のチェックポイント処理を使用して、Altworkplace Evr プラットフォームで仮想イベントの作成とホスティングを開始します。
-ms.date: 03/29/2021
+author: qianw211
+ms.author: v-qianwen
+ms.date: 08/26/2021
 ms.topic: article
-keywords: altspace、virtual reality、events、world ビル、チュートリアル
-ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+keywords: Altて Evr、virtual meetup、virtual reality meetup、VR meetup、virtual reality プラットフォーム、VR プラットフォーム、イマーシブ仮想イベント、イマーシブ VR イベント、virtual reality イベント、VR イベント、VR 世界ビル、イマーシブ VR エクスペリエンス、ソーシャル VR、ソーシャル VR プラットフォーム、VR イベントホスティング、ソーシャル仮想現実、virtual reality イベントホスト
+ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126453"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979032"
 ---
 # <a name="exploring-altspacevr"></a>AltspaceVR の探索
 
 ![Altスペース Evr バナーの画像](images/altspace-vr-banner.png)
 
-Altworkplace Evr は、仮想現実の主要なソーシャルプラットフォームです。 大規模なコンサートから専門分野に至るまで、さまざまな規模のイベントに重点を置いている場合、Alt Evr は、人間の接続を拡張するのに役立つテクノロジを使用します。
+Altworkplace Evr は、ライブ mixed reality エクスペリエンスのための主要なプラットフォームです。 Altworkplace Evr を使用すると、アーティスト、作成者、ブランド、および企業は、独自の仮想イベントを簡単に作成できます。 このソーシャルアプリを使用すると、世界中のすべてのメンバーがリアルタイムで接続し、共同作業を行うことができます。 見た目のよい連絡先、空間サウンド、およびイマーシブ仮想環境では、海洋しているときでも同じように見えます。 コメディは、エクスペリエンス、コンテンツ、コミュニティの共通点に直面しています。これは、live コンサート、カンファレンス、ショー、festivals、テクニカルトーク、チームミーティング、リモートコラボレーションなどのための主要な場所です。  
 
 熟練したユーザーであっても、新しいユーザーであっても、わかりやすいリソースを用意することが重要です。 仮想イベントを世界中に取り込むために、次のチェックポイントをコンパイルしました。 これらの項目については順番に説明することができます。お客様がお探しのものがわかっている場合は、ここからお読みください。 いずれにしても、方向性が必要になったときにはいつでもこの旅を再検討することができます。
 

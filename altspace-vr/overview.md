@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: Altて Evr、virtual meetup、virtual reality meetup、VR meetup、virtual reality プラットフォーム、VR プラットフォーム、イマーシブ仮想イベント、イマーシブ VR イベント、virtual reality イベント、VR イベント、VR 世界ビル、イマーシブ VR エクスペリエンス、ソーシャル VR、ソーシャル VR プラットフォーム、VR イベントホスティング、ソーシャル仮想現実、virtual reality イベントホスト
-ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1227807b34065c9706b8a67b2f9fc2368f5b7fdd
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131836"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979007"
 ---
 # <a name="what-is-altspacevr"></a>Altとは
 
@@ -43,7 +43,7 @@ Alt市外 Evr は、関心のある分野に合わせてさまざまな [コン�
 
 ビジネス向け Altworkplace Evr は [、Microsoft メッシュが有効](/mesh/)になります。 間もなく、3D のフォトリアリスティックのプレゼンスと空間マルチプレイヤーエクスペリエンスを利用できるようになります。 Alt集会 Evr は、コラボレーション、企業イベント、および従業員のエンゲージメントのためにビジネス VR プラットフォームに変わります。
 
-## <a name="see-also"></a>関連項目
+## <a name="see-also"></a>こちらもご覧ください
 
 仮想イベントを使用して世界に持ち込むことはできますか。 ここから体験を始めましょう。
 > [!div class="nextstepaction"]
