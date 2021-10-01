@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/26/2021
 ms.topic: article
 keywords: Altて Evr、virtual meetup、virtual reality meetup、VR meetup、virtual reality プラットフォーム、VR プラットフォーム、イマーシブ仮想イベント、イマーシブ VR イベント、virtual reality イベント、VR イベント、VR 世界ビル、イマーシブ VR エクスペリエンス、ソーシャル VR、ソーシャル VR プラットフォーム、VR イベントホスティング、ソーシャル仮想現実、virtual reality イベントホスト
-ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
-ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
+ms.openlocfilehash: dc88f0ff8664b062a8be9f5cbf79e7ddd3f4872a
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122979032"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310477"
 ---
 # <a name="exploring-altspacevr"></a>AltspaceVR の探索
 
@@ -48,7 +48,7 @@ Altspace Evr イベントは仮想環境で実行されるため、仮想空間�
 |  Checkpoint  |  結果  |
 | --- | --- |
 | [タイトル画面を調べる](community/exploring-title-screen.md) | タイトル画面から [ログイン]、[イベントの入力]、[アバターのカスタマイズ] の順に移動します。 |
-| [ソーシャル機能 & nametags](faqs/nametags.md) | Nametags とソーシャルの機能が Alt でどのように機能するかについて説明します |
+| [ソーシャル機能 & nametags](faqs/account-avatar-faq.md#how-do-nametags-work) | Nametags とソーシャルの機能が Alt でどのように機能するかについて説明します |
 
 ## <a name="4-creating--hosting-events"></a>4. & ホスティングイベントを作成する
 

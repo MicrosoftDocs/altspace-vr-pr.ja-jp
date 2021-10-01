@@ -4,12 +4,12 @@ description: AltspaceVR イベントで、最前行イベントを使用して�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 3c2374662017377f8d50c3261efd2d6c5ce1a619dee02cdc9ad16d6e48436694
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 86ba4e836c55648d5434de7764c09f8ef7646d2f
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119128175"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310501"
 ---
 # <a name="what-are-frontrow-events"></a>FrontRow イベントとは 
 
@@ -25,4 +25,11 @@ Front Row テクノロジを使用すると、パフォーマーは、その特�
 
 ステージ上のタレントは、フロント 行イベントの 1 つのインスタンスを設定する対象ユーザーを表示しますが、ユーザーがイベントのすべてのインスタンスで生成する絵文字を表示できます。
 
-ユーザーが [手を上げる] ボタンを選択すると、イベント ホストは、ホスト ツールを使用して、そのユーザーに対してオンエアをアクティブ化できます。 その時点で、パフォーマーと同様に、すべてのインスタンスで対象ユーザーを見聞きできます。 これにより、ユーザーは Q&A セッション中に、自分が入っている部屋に参加してタレントと対話できます。
+ユーザーが [手を上げる] ボタンを選択すると、イベント ホストは、ホスト ツールを使用して、そのユーザーに対してオンエアをアクティブ化できます。 その時点で、パフォーマーと同様に、すべてのインスタンスで対象ユーザーを見聞きできます。 これにより、Q&A セッション中に、ユーザーはショーに参加してタレントと対話できます。
+
+## <a name="support"></a>サポート
+
+AltspaceVR チームに関する質問またはフィードバック 
+
+> [!div class="nextstepaction"]
+> [ここをクリックしてサポート リクエストを送信する](https://help.altvr.com/hc/requests/new)

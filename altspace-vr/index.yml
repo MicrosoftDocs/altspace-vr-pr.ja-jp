@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: 作業の開始
       itemType: get-started
-      url: journey.md
+      url: overview.md
     - title: コンテンツとユーザーの検出
       itemType: overview
       url: community/exploring-title-screen.md
@@ -30,7 +30,7 @@ highlightedContent:
       url: world-building/early-access.md
     - title: トラブルシューティング
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 productDirectory:
   title: 作業開始
   summary: AltspaceVR を使用して、イベントをホストしたり、仮想ワールドを構築したり、世界中のリモート ユーザーやコミュニティと交流したりします。
@@ -94,13 +94,13 @@ additionalContent:
         - title: トラブルシューティングとサポート
           links:
             - text: オーディオに関する問題
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: アカウントとアバター
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: AltspaceVR アプリケーション
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: 健康と安全
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: イベント
               url: faqs/front-row-events.md
         - title: お問い合わせ
