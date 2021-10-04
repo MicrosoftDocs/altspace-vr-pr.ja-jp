@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: コミュニティ標準
       href: community/community-standards.md
-- name: トラブルシューティングとサポート
+- name: トラブルシューティングとサポートに関する FAQ
   items:
-    - name: よく寄せられる質問
-      items:
-        - name: オーディオ
-          items:
-            - name: VR ヘッドセットにはマイクが内蔵されていますか?
-              href: faqs/vr-headset-mic.md
-            - name: プッシュ ツー トーク ボタンはありますか?
-              href: faqs/push-to-talk.md
-            - name: 音声が途切れます
-              href: faqs/choppy-audio.md
-            - name: 私の声が他のユーザーに聞こえません
-              href: faqs/other-users-cant-hear-me.md
-        - name: アカウントとアバター
-          items:
-            - name: ネームタグはどのように機能しますか?
-              href: faqs/nametags.md
-            - name: アカウント情報を変更するにはどうすればよいですか?
-              href: faqs/updating-email-address.md
-            - name: アカウントのリンク解除と再リンクの方法を教えてください。
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: AltspaceVR アプリケーション
-          items:
-            - name: AltspaceVR アプリのバージョンはどうやって確認できますか?
-              href: faqs/app-version.md
-            - name: クライアント ログをアップロードするにはどうすればよいですか?
-              href: faqs/uploading-client-logs.md
-            - name: AltspaceVR を起動できません
-              href: faqs/unable-to-launch.md
-        - name: 健康と安全
-          items:
-            - name: AltspaceVR で乗り物酔いが起こりますか?
-              href: faqs/motion-sickness.md
-        - name: イベント
-          items:
-            - name: FrontRow イベントとは
-              href: faqs/front-row-events.md
+    - name: オーディオに関する問題
+      href: faqs/audio-faq.md
+    - name: アカウントとアバター
+      href: faqs/account-avatar-faq.md
+    - name: AltspaceVR アプリケーション
+      href: faqs/altspacevr-app-faq.md
+    - name: 健康と安全
+      href: faqs/health-safety-faq.md
+    - name: FrontRow イベント
+      href: faqs/front-row-events.md
 - name: お問い合わせ
   items:
     - name: ヘルプの参照
