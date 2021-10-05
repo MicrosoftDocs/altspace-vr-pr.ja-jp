@@ -1,17 +1,17 @@
 ---
 title: マウス/キーボードを使用したアバターコントロール (2D PC モード)
 description: 2D PC モードでマウスとキーボードを使用してアバターを移動するように、新規および従来のコントロールスキームを切り替える方法について説明します。
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: アバター、マウス、キーボード、2d、pc モード、コントロール
-ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: bacaf5e267ab28cc410b5659a34273b12ad36be5
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871237"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446307"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>マウス/キーボードを使用したアバターコントロール (2D PC モード)
 
@@ -35,7 +35,7 @@ ms.locfileid: "127871237"
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>キーボード/マウスの新しい PC コントロール
 
-<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
+![入力マッピングを含むキーボードとマウス](images/keyboard-mouse-controls.svg)
 
 ## <a name="classic-pc-controls"></a>従来の PC コントロール 
 
@@ -62,7 +62,7 @@ ms.locfileid: "127871237"
 
 **移動**
 
-| アクション | キー | 代替キー |
+| アクション | Key | 代替キー |
 |---|---|---|
 | 前に進む | W | 上矢印 |
 | 後ろに戻る | S | 下矢印 |
@@ -77,7 +77,7 @@ ms.locfileid: "127871237"
 
 **メニュー オプション**
 
-| アクション | キー | 代替キー |
+| アクション | Key | 代替キー |
 |---|---|---|
 | トグルメニュー | Esc | 該当なし |
 | アプリの全画面表示を切り替える | Alt + Enter | 該当なし |
